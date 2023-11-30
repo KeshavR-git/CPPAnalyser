@@ -13,6 +13,9 @@ from Tools.detector import Rule6Detector
 from Tools.detector import Rule7Detector
 from Tools.detector import Rule8Detector
 from Tools.detector import Rule9Detector
+from Tools.detector import Rule10Detector
+
+from Tools.collector import ForLoopCollector
 
 total_files = 0
 freqViolation = {
@@ -24,7 +27,8 @@ freqViolation = {
         6:0,
         7:0,
         8:0,
-        9:0
+        9:0,
+        10:0
 }
 amtViolation = {
         1:0,
@@ -35,7 +39,8 @@ amtViolation = {
         6:0,
         7:0,
         8:0,
-        9:0
+        9:0,
+        10:0
 }
 sum_of_squares = {
         1:0,
@@ -46,7 +51,8 @@ sum_of_squares = {
         6:0,
         7:0,
         8:0,
-        9:0
+        9:0,
+        10:0
 }
 
 def runFile(name):
@@ -83,11 +89,14 @@ def runTool(name):
         6:0,
         7:0,
         8:0,
-        9:0
+        9:0,
+        10:0
     }
     # Preprocess Stage
     HeaderPreprocessor.HeaderPreprocessor(name)
     SubRoutineCollector.FunctionCollector(name)
+
+    ForLoopCollector.ForLoopCollectorHelper("ForStmt", "kind", "temp/"+name+"functionNodes.json", "temp/"+name+"forLoopNodes.json")
 
     # Rule Detecting Stage
 
@@ -109,6 +118,7 @@ def runTool(name):
     Rule7Detector.Rule7Detector(name, temp_dict, name)
     Rule8Detector.Rule8Detector(name, temp_dict, name)
     Rule9Detector.Rule9Detector(name, temp_dict, name)
+    Rule10Detector.Rule10Detector(name, temp_dict, name)
 
     # builtins.print = old_print
 

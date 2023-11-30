@@ -1,12 +1,13 @@
+#include <iostream>
+#include <string>
+
 int main() {
-    int x;
+    // Pattern 10
 
-    // Pattern 5
-
-    if (x == 0) {
-
-    } else if (x != 0) {
-
+    for (int i = 0; i < 10; i++) {
+        std::string* input = new std::string("Repeated String");
+        std::cout << *input << std::endl;
+        delete input;
     }
 
     return 0;

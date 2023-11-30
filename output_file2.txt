@@ -1,0 +1,3 @@
+[{'id': '0x138262548', 'kind': 'VarDecl', 'loc': {'offset': 102, 'col': 14, 'tokLen': 1}, 'range': {'begin': {'offset': 98, 'col': 10, 'tokLen': 3}, 'end': {'offset': 106, 'col': 18, 'tokLen': 1}}, 'isUsed': True, 'name': 'i', 'mangledName': '__ZZ4mainE1i', 'type': {'qualType': 'int'}, 'init': 'c', 'inner': [{'id': '0x1382625b0', 'kind': 'IntegerLiteral', 'range': {'begin': {'offset': 106, 'col': 18, 'tokLen': 1}, 'end': {'offset': 106, 'col': 18, 'tokLen': 1}}, 'type': {'qualType': 'int'}, 'valueCategory': 'prvalue', 'value': '0'}]}]
+
+
