@@ -2,28 +2,26 @@
 #include <string>
 
 int main() {
-    int x;
-
-    // Pattern 5
-
-    if (x == 0) {
-
-    } else if (x != 0) {
-
+    int end = 5;
+    // Pattern 12 - Variation 1
+    for (int i = 0; i < end; i++) {
+        if (i == end-1) {
+            std::cout << "i == end - 1";
+        }
+        else {
+            std::cout << "i != end - 1";
+        }
     }
 
-    // Pattern 10
-    for (int i = 0; i < 10; i++) {
-        std::string* input = new std::string("Repeated String");
-        std::cout << *input << std::endl;
-        delete input;
-    }
-
-    for (int i = 0; i < 10; i++) {
-        int* num = new int(5);
-        std::cout << *num << std::endl;
-        delete num;
-    }
+    // Pattern 12 - Variation 2
+    for (int i = 0; i < end; i++) {
+        if (i == 0) {
+            std::cout << "i == end - 1";
+        }
+        else {
+            std::cout << "i != end - 1";
+        }
+    } 
 
     return 0;
 }
