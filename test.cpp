@@ -1,5 +1,6 @@
 #include <iostream>
 #include <string>
+int XX_MARKER_XX;
 
 int main()
 {
