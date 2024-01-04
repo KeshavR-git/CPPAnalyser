@@ -14,6 +14,7 @@ from Tools.detector import Rule7Detector
 from Tools.detector import Rule8Detector
 from Tools.detector import Rule9Detector
 from Tools.detector import Rule10Detector
+from Tools.detector import Rule11Detector
 from Tools.detector import Rule12Detector
 from Tools.detector import Rule12Variation2Detector
 # from Tools.detector import Rule13Detector
@@ -126,6 +127,7 @@ def runTool(name):
     Rule8Detector.Rule8Detector(name, temp_dict, name)
     Rule9Detector.Rule9Detector(name, temp_dict, name)
     Rule10Detector.Rule10Detector(name, temp_dict, name)
+    Rule11Detector.Rule11Detector(name, temp_dict, name)
     Rule12Detector.Rule12Detector(name, temp_dict, name)
     Rule12Variation2Detector.Rule12Variation2Detector(name, temp_dict, name)
     # Rule13Detector.Rule13Detector(name, temp_dict, name)
