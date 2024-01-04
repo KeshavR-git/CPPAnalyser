@@ -33,6 +33,7 @@ freqViolation = {
         8:0,
         9:0,
         10:0,
+        11:0,
         12:0,
 }
 amtViolation = {
@@ -46,6 +47,7 @@ amtViolation = {
         8:0,
         9:0,
         10:0,
+        11:0,
         12:0,
 }
 sum_of_squares = {
@@ -59,6 +61,7 @@ sum_of_squares = {
         8:0,
         9:0,
         10:0,
+        11:0,
         12:0,
 }
 
@@ -98,6 +101,7 @@ def runTool(name):
         8:0,
         9:0,
         10:0,
+        11:0,
         12:0,
     }
     # Preprocess Stage
