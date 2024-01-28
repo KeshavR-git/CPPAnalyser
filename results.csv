@@ -1,0 +1,2074 @@
+Student/File,CircularLine.hpp,ThrowTheBall.hpp,AzimuthMonitoring.hpp,Inchworm.hpp,StreetParking.hpp,EggCartons.hpp,PartySeats.hpp,DownloadingFiles.hpp,InchWorm.hpp,inchworm.hpp,DownloadingFile.hpp,ChangingString.hpp,getAzimuth.hpp
+s111,"week1-19/s111/CircularLine.hpp:184:7: Rule9 Violated: Code that is never executed.
+","week1-19/s111/ThrowTheBall.hpp:120:5: Rule9 Violated: Code that is never executed.
+week1-19/s111/ThrowTheBall.hpp:91:7: Rule9 Violated: Code that is never executed.
+week1-19/s111/ThrowTheBall.hpp:108:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s111/AzimuthMonitoring.hpp:77:7: Rule9 Violated: Code that is never executed.
+","week1-19/s111/Inchworm.hpp:46:7: Rule9 Violated: Code that is never executed.
+","week1-19/s111/StreetParking.hpp:124:7: Rule9 Violated: Code that is never executed.
+week1-19/s111/StreetParking.hpp:135:5: Rule11 Violated: Variable declared in loop.
+week1-19/s111/StreetParking.hpp:148:5: Rule11 Violated: Variable declared in loop.
+week1-19/s111/StreetParking.hpp:164:5: Rule11 Violated: Variable declared in loop.
+week1-19/s111/StreetParking.hpp:171:5: Rule11 Violated: Variable declared in loop.
+",,,,,,,,
+s129,,"week1-19/s129/ThrowTheBall.hpp:3:7: Rule9 Violated: Code that is never executed.
+week1-19/s129/ThrowTheBall.hpp:9:3: Rule11 Violated: Variable declared in loop.
+week1-19/s129/ThrowTheBall.hpp:10:3: Rule12 Violated: Consider refactoring the loop to remove the initial 'if' condition.
+","week1-19/s129/AzimuthMonitoring.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s129/AzimuthMonitoring.hpp:9:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s129/Inchworm.hpp:3:7: Rule9 Violated: Code that is never executed.
+week1-19/s129/Inchworm.hpp:7:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s129/StreetParking.hpp:14:4: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s129/StreetParking.hpp:4:7: Rule9 Violated: Code that is never executed.
+week1-19/s129/StreetParking.hpp:8:3: Rule11 Violated: Variable declared in loop.
+week1-19/s129/StreetParking.hpp:13:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s129/EggCartons.hpp:39:6: Rule1 Violated: No need to check if Boolean variable is equal to true or false.
+week1-19/s129/EggCartons.hpp:24:5: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s129/EggCartons.hpp:31:5: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s129/EggCartons.hpp:4:7: Rule9 Violated: Code that is never executed.
+week1-19/s129/EggCartons.hpp:12:3: Rule11 Violated: Variable declared in loop.
+week1-19/s129/EggCartons.hpp:14:4: Rule11 Violated: Variable declared in loop.
+",,,,,,,
+s116,,"week1-19/s116/ThrowTheBall.hpp:42:4: and week1-19/s116/ThrowTheBall.hpp:61:4 Rule7 Violated: Repeated statement(s) in branches of conditional statement (could be taken out).
+week1-19/s116/ThrowTheBall.hpp:39:4: and week1-19/s116/ThrowTheBall.hpp:58:4 Rule7 Violated: Repeated statement(s) in branches of conditional statement (could be taken out).
+week1-19/s116/ThrowTheBall.hpp:36:4: and week1-19/s116/ThrowTheBall.hpp:55:4 Rule7 Violated: Repeated statement(s) in branches of conditional statement (could be taken out).
+week1-19/s116/ThrowTheBall.hpp:4:7: Rule9 Violated: Code that is never executed.
+week1-19/s116/ThrowTheBall.hpp:11:2: Rule11 Violated: Variable declared in loop.
+","week1-19/s116/AzimuthMonitoring.hpp:7:7: Rule9 Violated: Code that is never executed.
+week1-19/s116/AzimuthMonitoring.hpp:19:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s116/Inchworm.hpp:7:7: Rule9 Violated: Code that is never executed.
+","week1-19/s116/StreetParking.hpp:14:4: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s116/StreetParking.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s116/StreetParking.hpp:12:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s116/EggCartons.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s116/EggCartons.hpp:24:3: Rule11 Violated: Variable declared in loop.
+",,,,,,,
+s118,,"week1-19/s118/ThrowTheBall.hpp:4:7: Rule9 Violated: Code that is never executed.
+week1-19/s118/ThrowTheBall.hpp:9:3: Rule11 Violated: Variable declared in loop.
+",,"week1-19/s118/Inchworm.hpp:21:9: Rule5 Violated: Checking an expression that has a known True/False value.
+week1-19/s118/Inchworm.hpp:4:7: Rule9 Violated: Code that is never executed.
+",,"week1-19/s118/EggCartons.hpp:4:7: Rule9 Violated: Code that is never executed.
+","week1-19/s118/PartySeats.hpp:8:7: Rule9 Violated: Code that is never executed.
+week1-19/s118/PartySeats.hpp:20:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s118/DownloadingFiles.hpp:6:7: Rule9 Violated: Code that is never executed.
+",,,,,
+s127,,"week1-19/s127/ThrowTheBall.hpp:10:3: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s127/ThrowTheBall.hpp:14:3: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s127/ThrowTheBall.hpp:14:3: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s127/ThrowTheBall.hpp:18:3: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s127/ThrowTheBall.hpp:4:7: Rule9 Violated: Code that is never executed.
+","week1-19/s127/AzimuthMonitoring.hpp:6:7: Rule9 Violated: Code that is never executed.
+","week1-19/s127/Inchworm.hpp:10:2: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s127/Inchworm.hpp:14:2: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s127/Inchworm.hpp:14:2: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s127/Inchworm.hpp:18:2: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s127/Inchworm.hpp:4:7: Rule9 Violated: Code that is never executed.
+","week1-19/s127/StreetParking.hpp:48:10: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s127/StreetParking.hpp:59:5: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s127/StreetParking.hpp:68:5: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s127/StreetParking.hpp:4:7: Rule9 Violated: Code that is never executed.
+","week1-19/s127/EggCartons.hpp:12:3: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s127/EggCartons.hpp:16:3: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s127/EggCartons.hpp:40:8: Rule5 Violated: Checking an expression that has a known True/False value.
+week1-19/s127/EggCartons.hpp:4:7: Rule9 Violated: Code that is never executed.
+",,,,,,,
+s119,,"week1-19/s119/ThrowTheBall.hpp:29:19: Rule9 Violated: Code that is never executed.
+week1-19/s119/ThrowTheBall.hpp:23:7: Rule9 Violated: Code that is never executed.
+",,"week1-19/s119/Inchworm.hpp:30:2: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s119/Inchworm.hpp:31:2: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s119/Inchworm.hpp:31:2: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s119/Inchworm.hpp:32:2: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s119/Inchworm.hpp:15:15: Rule9 Violated: Code that is never executed.
+week1-19/s119/Inchworm.hpp:9:7: Rule9 Violated: Code that is never executed.
+",,"week1-19/s119/EggCartons.hpp:20:3: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s119/EggCartons.hpp:21:3: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s119/EggCartons.hpp:16:17: Rule9 Violated: Code that is never executed.
+week1-19/s119/EggCartons.hpp:10:7: Rule9 Violated: Code that is never executed.
+","week1-19/s119/PartySeats.hpp:46:3: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s119/PartySeats.hpp:49:3: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s119/PartySeats.hpp:39:28: Rule9 Violated: Code that is never executed.
+week1-19/s119/PartySeats.hpp:33:7: Rule9 Violated: Code that is never executed.
+week1-19/s119/PartySeats.hpp:28:6: Rule9 Violated: Code that is never executed.
+week1-19/s119/PartySeats.hpp:68:3: Rule11 Violated: Variable declared in loop.
+week1-19/s119/PartySeats.hpp:95:3: Rule11 Violated: Variable declared in loop.
+week1-19/s119/PartySeats.hpp:100:3: Rule11 Violated: Variable declared in loop.
+week1-19/s119/PartySeats.hpp:30:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s119/DownloadingFiles.hpp:42:26: Rule9 Violated: Code that is never executed.
+week1-19/s119/DownloadingFiles.hpp:33:7: Rule9 Violated: Code that is never executed.
+week1-19/s119/DownloadingFiles.hpp:28:6: Rule9 Violated: Code that is never executed.
+week1-19/s119/DownloadingFiles.hpp:54:3: Rule11 Violated: Variable declared in loop.
+week1-19/s119/DownloadingFiles.hpp:30:3: Rule11 Violated: Variable declared in loop.
+week1-19/s119/DownloadingFiles.hpp:18:3: Rule11 Violated: Variable declared in loop.
+",,,,,
+s126,"week1-19/s126/CircularLine.hpp:10:7: Rule9 Violated: Code that is never executed.
+week1-19/s126/CircularLine.hpp:27:9: Rule11 Violated: Variable declared in loop.
+week1-19/s126/CircularLine.hpp:41:9: Rule11 Violated: Variable declared in loop.
+week1-19/s126/CircularLine.hpp:66:9: Rule11 Violated: Variable declared in loop.
+week1-19/s126/CircularLine.hpp:67:13: Rule11 Violated: Variable declared in loop.
+week1-19/s126/CircularLine.hpp:66:9: Rule13 Violated: Nested For Loop With Indices Comparison.
+","week1-19/s126/ThrowTheBall.hpp:8:7: Rule9 Violated: Code that is never executed.
+week1-19/s126/ThrowTheBall.hpp:21:9: Rule11 Violated: Variable declared in loop.
+","week1-19/s126/AzimuthMonitoring.hpp:33:21: and week1-19/s126/AzimuthMonitoring.hpp:36:21 Rule7 Violated: Repeated statement(s) in branches of conditional statement (could be taken out).
+week1-19/s126/AzimuthMonitoring.hpp:46:25: and week1-19/s126/AzimuthMonitoring.hpp:50:25 Rule7 Violated: Repeated statement(s) in branches of conditional statement (could be taken out).
+week1-19/s126/AzimuthMonitoring.hpp:47:25: and week1-19/s126/AzimuthMonitoring.hpp:51:25 Rule7 Violated: Repeated statement(s) in branches of conditional statement (could be taken out).
+week1-19/s126/AzimuthMonitoring.hpp:48:25: and week1-19/s126/AzimuthMonitoring.hpp:52:25 Rule7 Violated: Repeated statement(s) in branches of conditional statement (could be taken out).
+week1-19/s126/AzimuthMonitoring.hpp:48:25: and week1-19/s126/AzimuthMonitoring.hpp:52:25 Rule7 Violated: Repeated statement(s) in branches of conditional statement (could be taken out).
+week1-19/s126/AzimuthMonitoring.hpp:47:25: and week1-19/s126/AzimuthMonitoring.hpp:51:25 Rule7 Violated: Repeated statement(s) in branches of conditional statement (could be taken out).
+week1-19/s126/AzimuthMonitoring.hpp:46:25: and week1-19/s126/AzimuthMonitoring.hpp:50:25 Rule7 Violated: Repeated statement(s) in branches of conditional statement (could be taken out).
+week1-19/s126/AzimuthMonitoring.hpp:60:25: and week1-19/s126/AzimuthMonitoring.hpp:65:25 Rule7 Violated: Repeated statement(s) in branches of conditional statement (could be taken out).
+week1-19/s126/AzimuthMonitoring.hpp:61:25: and week1-19/s126/AzimuthMonitoring.hpp:66:25 Rule7 Violated: Repeated statement(s) in branches of conditional statement (could be taken out).
+week1-19/s126/AzimuthMonitoring.hpp:62:25: and week1-19/s126/AzimuthMonitoring.hpp:67:25 Rule7 Violated: Repeated statement(s) in branches of conditional statement (could be taken out).
+week1-19/s126/AzimuthMonitoring.hpp:63:25: and week1-19/s126/AzimuthMonitoring.hpp:68:25 Rule7 Violated: Repeated statement(s) in branches of conditional statement (could be taken out).
+week1-19/s126/AzimuthMonitoring.hpp:63:25: and week1-19/s126/AzimuthMonitoring.hpp:68:25 Rule7 Violated: Repeated statement(s) in branches of conditional statement (could be taken out).
+week1-19/s126/AzimuthMonitoring.hpp:62:25: and week1-19/s126/AzimuthMonitoring.hpp:67:25 Rule7 Violated: Repeated statement(s) in branches of conditional statement (could be taken out).
+week1-19/s126/AzimuthMonitoring.hpp:61:25: and week1-19/s126/AzimuthMonitoring.hpp:66:25 Rule7 Violated: Repeated statement(s) in branches of conditional statement (could be taken out).
+week1-19/s126/AzimuthMonitoring.hpp:60:25: and week1-19/s126/AzimuthMonitoring.hpp:65:25 Rule7 Violated: Repeated statement(s) in branches of conditional statement (could be taken out).
+week1-19/s126/AzimuthMonitoring.hpp:10:7: Rule9 Violated: Code that is never executed.
+week1-19/s126/AzimuthMonitoring.hpp:21:9: Rule11 Violated: Variable declared in loop.
+","week1-19/s126/Inchworm.hpp:8:7: Rule9 Violated: Code that is never executed.
+week1-19/s126/Inchworm.hpp:17:9: Rule11 Violated: Variable declared in loop.
+","week1-19/s126/StreetParking.hpp:10:7: Rule9 Violated: Code that is never executed.
+week1-19/s126/StreetParking.hpp:15:9: Rule11 Violated: Variable declared in loop.
+week1-19/s126/StreetParking.hpp:16:9: Rule12 Violated: Consider refactoring the loop to remove the initial 'if' condition.
+",,,,,,,,
+s121,,"week1-19/s121/ThrowTheBall.hpp:2:7: Rule9 Violated: Code that is never executed.
+week1-19/s121/ThrowTheBall.hpp:11:9: Rule11 Violated: Variable declared in loop.
+","week1-19/s121/AzimuthMonitoring.hpp:4:7: Rule9 Violated: Code that is never executed.
+","week1-19/s121/Inchworm.hpp:2:7: Rule9 Violated: Code that is never executed.
+week1-19/s121/Inchworm.hpp:11:9: Rule11 Violated: Variable declared in loop.
+week1-19/s121/Inchworm.hpp:22:9: Rule11 Violated: Variable declared in loop.
+","week1-19/s121/StreetParking.hpp:12:13: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s121/StreetParking.hpp:35:13: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s121/StreetParking.hpp:24:17: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s121/StreetParking.hpp:30:17: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s121/StreetParking.hpp:3:7: Rule9 Violated: Code that is never executed.
+week1-19/s121/StreetParking.hpp:9:9: Rule11 Violated: Variable declared in loop.
+week1-19/s121/StreetParking.hpp:45:9: Rule11 Violated: Variable declared in loop.
+","week1-19/s121/EggCartons.hpp:3:7: Rule9 Violated: Code that is never executed.
+",,,,,,,
+s128,"week1-19/s128/CircularLine.hpp:7:7: Rule9 Violated: Code that is never executed.
+week1-19/s128/CircularLine.hpp:22:5: Rule11 Violated: Variable declared in loop.
+week1-19/s128/CircularLine.hpp:27:5: Rule11 Violated: Variable declared in loop.
+week1-19/s128/CircularLine.hpp:28:7: Rule11 Violated: Variable declared in loop.
+","week1-19/s128/ThrowTheBall.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s128/ThrowTheBall.hpp:14:5: Rule11 Violated: Variable declared in loop.
+","week1-19/s128/AzimuthMonitoring.hpp:7:7: Rule9 Violated: Code that is never executed.
+week1-19/s128/AzimuthMonitoring.hpp:20:5: Rule11 Violated: Variable declared in loop.
+week1-19/s128/AzimuthMonitoring.hpp:22:9: Rule11 Violated: Variable declared in loop.
+","week1-19/s128/Inchworm.hpp:5:7: Rule9 Violated: Code that is never executed.
+","week1-19/s128/StreetParking.hpp:7:7: Rule9 Violated: Code that is never executed.
+week1-19/s128/StreetParking.hpp:19:5: Rule11 Violated: Variable declared in loop.
+week1-19/s128/StreetParking.hpp:24:5: Rule11 Violated: Variable declared in loop.
+week1-19/s128/StreetParking.hpp:41:5: Rule11 Violated: Variable declared in loop.
+",,,,,,,,
+s117,"week1-19/s117/CircularLine.hpp:6:7: Rule9 Violated: Code that is never executed.
+","week1-19/s117/ThrowTheBall.hpp:3:7: Rule9 Violated: Code that is never executed.
+week1-19/s117/ThrowTheBall.hpp:7:9: Rule11 Violated: Variable declared in loop.
+","week1-19/s117/AzimuthMonitoring.hpp:79:17: and week1-19/s117/AzimuthMonitoring.hpp:83:17 Rule7 Violated: Repeated statement(s) in branches of conditional statement (could be taken out).
+week1-19/s117/AzimuthMonitoring.hpp:79:17: and week1-19/s117/AzimuthMonitoring.hpp:83:17 Rule7 Violated: Repeated statement(s) in branches of conditional statement (could be taken out).
+week1-19/s117/AzimuthMonitoring.hpp:8:7: Rule9 Violated: Code that is never executed.
+","week1-19/s117/Inchworm.hpp:2:7: Rule9 Violated: Code that is never executed.
+","week1-19/s117/StreetParking.hpp:31:17: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s117/StreetParking.hpp:38:17: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s117/StreetParking.hpp:54:17: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s117/StreetParking.hpp:63:17: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s117/StreetParking.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s117/StreetParking.hpp:12:9: Rule11 Violated: Variable declared in loop.
+week1-19/s117/StreetParking.hpp:17:9: Rule11 Violated: Variable declared in loop.
+","week1-19/s117/EggCartons.hpp:28:21: and week1-19/s117/EggCartons.hpp:33:21 Rule7 Violated: Repeated statement(s) in branches of conditional statement (could be taken out).
+week1-19/s117/EggCartons.hpp:3:7: Rule9 Violated: Code that is never executed.
+",,,,,,,
+s110,,"week1-19/s110/ThrowTheBall.hpp:36:5: and week1-19/s110/ThrowTheBall.hpp:46:5 Rule7 Violated: Repeated statement(s) in branches of conditional statement (could be taken out).
+week1-19/s110/ThrowTheBall.hpp:35:5: and week1-19/s110/ThrowTheBall.hpp:45:5 Rule7 Violated: Repeated statement(s) in branches of conditional statement (could be taken out).
+week1-19/s110/ThrowTheBall.hpp:32:5: and week1-19/s110/ThrowTheBall.hpp:42:5 Rule7 Violated: Repeated statement(s) in branches of conditional statement (could be taken out).
+week1-19/s110/ThrowTheBall.hpp:31:5: and week1-19/s110/ThrowTheBall.hpp:41:5 Rule7 Violated: Repeated statement(s) in branches of conditional statement (could be taken out).
+week1-19/s110/ThrowTheBall.hpp:51:3: Rule9 Violated: Code that is never executed.
+week1-19/s110/ThrowTheBall.hpp:7:7: Rule9 Violated: Code that is never executed.
+week1-19/s110/ThrowTheBall.hpp:16:3: Rule11 Violated: Variable declared in loop.
+",,"week1-19/s110/Inchworm.hpp:9:92: Rule8 Violated: The block associated with the IF (or ELSE) has no statements (or self-assignment).
+week1-19/s110/Inchworm.hpp:3:7: Rule9 Violated: Code that is never executed.
+","week1-19/s110/StreetParking.hpp:35:30: Rule1 Violated: No need to check if Boolean variable is equal to true or false.
+week1-19/s110/StreetParking.hpp:39:30: Rule1 Violated: No need to check if Boolean variable is equal to true or false.
+week1-19/s110/StreetParking.hpp:43:30: Rule1 Violated: No need to check if Boolean variable is equal to true or false.
+week1-19/s110/StreetParking.hpp:47:30: Rule1 Violated: No need to check if Boolean variable is equal to true or false.
+week1-19/s110/StreetParking.hpp:51:8: Rule1 Violated: No need to check if Boolean variable is equal to true or false.
+week1-19/s110/StreetParking.hpp:36:5: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s110/StreetParking.hpp:40:5: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s110/StreetParking.hpp:40:5: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s110/StreetParking.hpp:44:5: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s110/StreetParking.hpp:44:5: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s110/StreetParking.hpp:48:5: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s110/StreetParking.hpp:19:64: Rule8 Violated: The block associated with the IF (or ELSE) has no statements (or self-assignment).
+week1-19/s110/StreetParking.hpp:8:7: Rule9 Violated: Code that is never executed.
+week1-19/s110/StreetParking.hpp:14:3: Rule11 Violated: Variable declared in loop.
+",,,,,,,,
+s038,,"week1-19/s038/ThrowTheBall.hpp:4:7: Rule9 Violated: Code that is never executed.
+week1-19/s038/ThrowTheBall.hpp:14:5: Rule11 Violated: Variable declared in loop.
+",,"week1-19/s038/Inchworm.hpp:4:7: Rule9 Violated: Code that is never executed.
+","week1-19/s038/StreetParking.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s038/StreetParking.hpp:12:5: Rule11 Violated: Variable declared in loop.
+","week1-19/s038/EggCartons.hpp:38:10: Rule5 Violated: Checking an expression that has a known True/False value.
+week1-19/s038/EggCartons.hpp:4:7: Rule9 Violated: Code that is never executed.
+",,"week1-19/s038/DownloadingFiles.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s038/DownloadingFiles.hpp:14:4: Rule11 Violated: Variable declared in loop.
+week1-19/s038/DownloadingFiles.hpp:18:6: Rule11 Violated: Variable declared in loop.
+",,,,,
+s031,,,,,,"week1-19/s031/EggCartons.hpp:4:7: Rule9 Violated: Code that is never executed.
+",,,"week1-19/s031/InchWorm.hpp:5:7: Rule9 Violated: Code that is never executed.
+",,,,
+.DS_Store,,,,,,,,,,,,,
+s009,,"week1-19/s009/ThrowTheBall.hpp:4:7: Rule9 Violated: Code that is never executed.
+",,"week1-19/s009/Inchworm.hpp:3:7: Rule9 Violated: Code that is never executed.
+week1-19/s009/Inchworm.hpp:7:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s009/StreetParking.hpp:5:7: Rule9 Violated: Code that is never executed.
+","week1-19/s009/EggCartons.hpp:4:7: Rule9 Violated: Code that is never executed.
+week1-19/s009/EggCartons.hpp:14:3: Rule11 Violated: Variable declared in loop.
+week1-19/s009/EggCartons.hpp:15:4: Rule11 Violated: Variable declared in loop.
+","week1-19/s009/PartySeats.hpp:5:7: Rule9 Violated: Code that is never executed.
+",,,,,,
+s036,,"week1-19/s036/ThrowTheBall.hpp:46:12: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s036/ThrowTheBall.hpp:7:7: Rule9 Violated: Code that is never executed.
+week1-19/s036/ThrowTheBall.hpp:14:5: Rule11 Violated: Variable declared in loop.
+","week1-19/s036/AzimuthMonitoring.hpp:25:7: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s036/AzimuthMonitoring.hpp:38:7: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s036/AzimuthMonitoring.hpp:69:7: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s036/AzimuthMonitoring.hpp:8:7: Rule9 Violated: Code that is never executed.
+","week1-19/s036/Inchworm.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s036/Inchworm.hpp:11:9: Rule11 Violated: Variable declared in loop.
+","week1-19/s036/StreetParking.hpp:8:7: Rule9 Violated: Code that is never executed.
+week1-19/s036/StreetParking.hpp:41:9: Rule11 Violated: Variable declared in loop.
+week1-19/s036/StreetParking.hpp:61:9: Rule11 Violated: Variable declared in loop.
+","week1-19/s036/EggCartons.hpp:5:7: Rule9 Violated: Code that is never executed.
+",,,,,,,
+s096,,"week1-19/s096/ThrowTheBall.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s096/ThrowTheBall.hpp:11:9: Rule11 Violated: Variable declared in loop.
+","week1-19/s096/AzimuthMonitoring.hpp:7:9: Rule9 Violated: Code that is never executed.
+week1-19/s096/AzimuthMonitoring.hpp:81:5: Rule11 Violated: Variable declared in loop.
+",,"week1-19/s096/StreetParking.hpp:11:13: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s096/StreetParking.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s096/StreetParking.hpp:10:9: Rule11 Violated: Variable declared in loop.
+","week1-19/s096/EggCartons.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s096/EggCartons.hpp:10:9: Rule11 Violated: Variable declared in loop.
+week1-19/s096/EggCartons.hpp:11:13: Rule11 Violated: Variable declared in loop.
+",,,,"week1-19/s096/inchworm.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s096/inchworm.hpp:9:3: Rule11 Violated: Variable declared in loop.
+",,,
+s062,,"week1-19/s062/ThrowTheBall.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s062/ThrowTheBall.hpp:14:4: Rule11 Violated: Variable declared in loop.
+",,"week1-19/s062/Inchworm.hpp:4:7: Rule9 Violated: Code that is never executed.
+","week1-19/s062/StreetParking.hpp:18:6: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s062/StreetParking.hpp:27:7: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s062/StreetParking.hpp:46:7: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s062/StreetParking.hpp:48:8: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s062/StreetParking.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s062/StreetParking.hpp:14:4: Rule11 Violated: Variable declared in loop.
+","week1-19/s062/EggCartons.hpp:3:7: Rule9 Violated: Code that is never executed.
+","week1-19/s062/PartySeats.hpp:31:6: and week1-19/s062/PartySeats.hpp:37:6 Rule7 Violated: Repeated statement(s) in branches of conditional statement (could be taken out).
+week1-19/s062/PartySeats.hpp:8:7: Rule9 Violated: Code that is never executed.
+",,,,,,
+s065,,"week1-19/s065/ThrowTheBall.hpp:3:7: Rule9 Violated: Code that is never executed.
+week1-19/s065/ThrowTheBall.hpp:9:3: Rule11 Violated: Variable declared in loop.
+",,"week1-19/s065/Inchworm.hpp:3:7: Rule9 Violated: Code that is never executed.
+week1-19/s065/Inchworm.hpp:9:3: Rule11 Violated: Variable declared in loop.
+",,"week1-19/s065/EggCartons.hpp:3:7: Rule9 Violated: Code that is never executed.
+","week1-19/s065/PartySeats.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s065/PartySeats.hpp:16:3: Rule11 Violated: Variable declared in loop.
+week1-19/s065/PartySeats.hpp:26:3: Rule11 Violated: Variable declared in loop.
+week1-19/s065/PartySeats.hpp:49:3: Rule11 Violated: Variable declared in loop.
+week1-19/s065/PartySeats.hpp:76:3: Rule11 Violated: Variable declared in loop.
+week1-19/s065/PartySeats.hpp:90:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s065/DownloadingFiles.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s065/DownloadingFiles.hpp:13:3: Rule11 Violated: Variable declared in loop.
+",,,,,
+s091,,"week1-19/s091/ThrowTheBall.hpp:3:7: Rule9 Violated: Code that is never executed.
+","week1-19/s091/AzimuthMonitoring.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s091/AzimuthMonitoring.hpp:12:4: Rule11 Violated: Variable declared in loop.
+","week1-19/s091/Inchworm.hpp:3:7: Rule9 Violated: Code that is never executed.
+week1-19/s091/Inchworm.hpp:8:4: Rule11 Violated: Variable declared in loop.
+",,"week1-19/s091/EggCartons.hpp:4:7: Rule9 Violated: Code that is never executed.
+",,"week1-19/s091/DownloadingFiles.hpp:86:8: and week1-19/s091/DownloadingFiles.hpp:92:8 Rule7 Violated: Repeated statement(s) in branches of conditional statement (could be taken out).
+week1-19/s091/DownloadingFiles.hpp:85:8: and week1-19/s091/DownloadingFiles.hpp:91:8 Rule7 Violated: Repeated statement(s) in branches of conditional statement (could be taken out).
+week1-19/s091/DownloadingFiles.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s091/DownloadingFiles.hpp:36:4: Rule11 Violated: Variable declared in loop.
+week1-19/s091/DownloadingFiles.hpp:53:4: Rule11 Violated: Variable declared in loop.
+week1-19/s091/DownloadingFiles.hpp:66:4: Rule11 Violated: Variable declared in loop.
+week1-19/s091/DownloadingFiles.hpp:73:4: Rule11 Violated: Variable declared in loop.
+week1-19/s091/DownloadingFiles.hpp:107:4: Rule11 Violated: Variable declared in loop.
+week1-19/s091/DownloadingFiles.hpp:113:4: Rule11 Violated: Variable declared in loop.
+",,,,,
+s053,,,"week1-19/s053/AzimuthMonitoring.hpp:13:7: Rule9 Violated: Code that is never executed.
+week1-19/s053/AzimuthMonitoring.hpp:17:4: Rule11 Violated: Variable declared in loop.
+week1-19/s053/AzimuthMonitoring.hpp:39:6: Rule11 Violated: Variable declared in loop.
+week1-19/s053/AzimuthMonitoring.hpp:53:6: Rule11 Violated: Variable declared in loop.
+","week1-19/s053/Inchworm.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s053/Inchworm.hpp:14:4: Rule11 Violated: Variable declared in loop.
+week1-19/s053/Inchworm.hpp:15:5: Rule11 Violated: Variable declared in loop.
+week1-19/s053/Inchworm.hpp:14:4: Rule13 Violated: Nested For Loop With Indices Comparison.
+","week1-19/s053/StreetParking.hpp:20:4: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s053/StreetParking.hpp:14:7: Rule9 Violated: Code that is never executed.
+week1-19/s053/StreetParking.hpp:19:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s053/EggCartons.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s053/EggCartons.hpp:20:4: Rule11 Violated: Variable declared in loop.
+week1-19/s053/EggCartons.hpp:21:5: Rule11 Violated: Variable declared in loop.
+week1-19/s053/EggCartons.hpp:37:4: Rule11 Violated: Variable declared in loop.
+week1-19/s053/EggCartons.hpp:38:5: Rule11 Violated: Variable declared in loop.
+",,,,,,,
+s098,,"week1-19/s098/ThrowTheBall.hpp:7:7: Rule9 Violated: Code that is never executed.
+week1-19/s098/ThrowTheBall.hpp:15:3: Rule11 Violated: Variable declared in loop.
+week1-19/s098/ThrowTheBall.hpp:21:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s098/AzimuthMonitoring.hpp:43:7: Rule9 Violated: Code that is never executed.
+week1-19/s098/AzimuthMonitoring.hpp:9:7: Rule9 Violated: Code that is never executed.
+week1-19/s098/AzimuthMonitoring.hpp:53:3: Rule11 Violated: Variable declared in loop.
+week1-19/s098/AzimuthMonitoring.hpp:18:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s098/Inchworm.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s098/Inchworm.hpp:14:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s098/StreetParking.hpp:7:7: Rule9 Violated: Code that is never executed.
+","week1-19/s098/EggCartons.hpp:4:7: Rule9 Violated: Code that is never executed.
+",,,,,,,
+s054,,"week1-19/s054/ThrowTheBall.hpp:6:7: Rule9 Violated: Code that is never executed.
+","week1-19/s054/AzimuthMonitoring.hpp:9:7: Rule9 Violated: Code that is never executed.
+week1-19/s054/AzimuthMonitoring.hpp:60:5: Rule11 Violated: Variable declared in loop.
+","week1-19/s054/Inchworm.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s054/Inchworm.hpp:18:5: Rule11 Violated: Variable declared in loop.
+","week1-19/s054/StreetParking.hpp:17:7: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s054/StreetParking.hpp:21:7: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s054/StreetParking.hpp:21:7: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s054/StreetParking.hpp:25:7: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s054/StreetParking.hpp:25:7: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s054/StreetParking.hpp:29:7: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s054/StreetParking.hpp:29:7: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s054/StreetParking.hpp:33:7: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s054/StreetParking.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s054/StreetParking.hpp:14:6: Rule11 Violated: Variable declared in loop.
+","week1-19/s054/EggCartons.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s054/EggCartons.hpp:43:7: Rule11 Violated: Variable declared in loop.
+",,,,,,,
+s008,"week1-19/s008/CircularLine.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s008/CircularLine.hpp:14:9: Rule11 Violated: Variable declared in loop.
+week1-19/s008/CircularLine.hpp:16:13: Rule11 Violated: Variable declared in loop.
+week1-19/s008/CircularLine.hpp:27:17: Rule11 Violated: Variable declared in loop.
+week1-19/s008/CircularLine.hpp:34:17: Rule11 Violated: Variable declared in loop.
+week1-19/s008/CircularLine.hpp:37:17: Rule11 Violated: Variable declared in loop.
+",,"week1-19/s008/AzimuthMonitoring.hpp:7:7: Rule9 Violated: Code that is never executed.
+",,,"week1-19/s008/EggCartons.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s008/EggCartons.hpp:22:9: Rule11 Violated: Variable declared in loop.
+","week1-19/s008/PartySeats.hpp:9:7: Rule9 Violated: Code that is never executed.
+week1-19/s008/PartySeats.hpp:109:9: Rule11 Violated: Variable declared in loop.
+","week1-19/s008/DownloadingFiles.hpp:9:7: Rule9 Violated: Code that is never executed.
+",,,,,
+s037,"week1-19/s037/CircularLine.hpp:8:7: Rule9 Violated: Code that is never executed.
+week1-19/s037/CircularLine.hpp:16:5: Rule11 Violated: Variable declared in loop.
+week1-19/s037/CircularLine.hpp:22:5: Rule11 Violated: Variable declared in loop.
+week1-19/s037/CircularLine.hpp:24:7: Rule11 Violated: Variable declared in loop.
+","week1-19/s037/ThrowTheBall.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s037/ThrowTheBall.hpp:13:6: Rule11 Violated: Variable declared in loop.
+","week1-19/s037/AzimuthMonitoring.hpp:42:21: Rule8 Violated: The block associated with the IF (or ELSE) has no statements (or self-assignment).
+week1-19/s037/AzimuthMonitoring.hpp:10:7: Rule9 Violated: Code that is never executed.
+week1-19/s037/AzimuthMonitoring.hpp:17:10: Rule11 Violated: Variable declared in loop.
+","week1-19/s037/Inchworm.hpp:6:7: Rule9 Violated: Code that is never executed.
+","week1-19/s037/StreetParking.hpp:26:76: Rule8 Violated: The block associated with the IF (or ELSE) has no statements (or self-assignment).
+week1-19/s037/StreetParking.hpp:29:51: Rule8 Violated: The block associated with the IF (or ELSE) has no statements (or self-assignment).
+week1-19/s037/StreetParking.hpp:34:51: Rule8 Violated: The block associated with the IF (or ELSE) has no statements (or self-assignment).
+week1-19/s037/StreetParking.hpp:7:7: Rule9 Violated: Code that is never executed.
+week1-19/s037/StreetParking.hpp:16:9: Rule11 Violated: Variable declared in loop.
+",,,,,,,,
+s030,,"week1-19/s030/ThrowTheBall.hpp:6:7: Rule9 Violated: Code that is never executed.
+",,"week1-19/s030/Inchworm.hpp:5:7: Rule9 Violated: Code that is never executed.
+","week1-19/s030/StreetParking.hpp:32:20: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s030/StreetParking.hpp:35:20: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s030/StreetParking.hpp:45:20: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s030/StreetParking.hpp:48:20: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s030/StreetParking.hpp:7:7: Rule9 Violated: Code that is never executed.
+week1-19/s030/StreetParking.hpp:20:12: Rule11 Violated: Variable declared in loop.
+","week1-19/s030/EggCartons.hpp:18:13: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s030/EggCartons.hpp:22:13: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s030/EggCartons.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s030/EggCartons.hpp:33:13: Rule11 Violated: Variable declared in loop.
+week1-19/s030/EggCartons.hpp:34:15: Rule11 Violated: Variable declared in loop.
+",,,,,,,
+s039,"week1-19/s039/CircularLine.hpp:4:7: Rule9 Violated: Code that is never executed.
+week1-19/s039/CircularLine.hpp:10:3: Rule11 Violated: Variable declared in loop.
+week1-19/s039/CircularLine.hpp:16:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s039/ThrowTheBall.hpp:3:7: Rule9 Violated: Code that is never executed.
+","week1-19/s039/AzimuthMonitoring.hpp:65:7: Rule9 Violated: Code that is never executed.
+week1-19/s039/AzimuthMonitoring.hpp:7:7: Rule9 Violated: Code that is never executed.
+week1-19/s039/AzimuthMonitoring.hpp:70:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s039/Inchworm.hpp:3:7: Rule9 Violated: Code that is never executed.
+","week1-19/s039/StreetParking.hpp:18:4: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s039/StreetParking.hpp:24:4: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s039/StreetParking.hpp:31:4: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s039/StreetParking.hpp:38:4: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s039/StreetParking.hpp:4:7: Rule9 Violated: Code that is never executed.
+week1-19/s039/StreetParking.hpp:8:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s039/EggCartons.hpp:3:7: Rule9 Violated: Code that is never executed.
+","week1-19/s039/PartySeats.hpp:68:7: Rule1 Violated: No need to check if Boolean variable is equal to true or false.
+week1-19/s039/PartySeats.hpp:68:28: Rule1 Violated: No need to check if Boolean variable is equal to true or false.
+week1-19/s039/PartySeats.hpp:111:4: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s039/PartySeats.hpp:87:20: Rule8 Violated: The block associated with the IF (or ELSE) has no statements (or self-assignment).
+week1-19/s039/PartySeats.hpp:147:12: Rule8 Violated: The block associated with the IF (or ELSE) has no statements (or self-assignment).
+week1-19/s039/PartySeats.hpp:176:12: Rule8 Violated: The block associated with the IF (or ELSE) has no statements (or self-assignment).
+week1-19/s039/PartySeats.hpp:15:7: Rule9 Violated: Code that is never executed.
+week1-19/s039/PartySeats.hpp:20:3: Rule11 Violated: Variable declared in loop.
+week1-19/s039/PartySeats.hpp:101:3: Rule11 Violated: Variable declared in loop.
+week1-19/s039/PartySeats.hpp:110:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s039/DownloadingFiles.hpp:4:7: Rule9 Violated: Code that is never executed.
+week1-19/s039/DownloadingFiles.hpp:7:3: Rule11 Violated: Variable declared in loop.
+week1-19/s039/DownloadingFiles.hpp:20:3: Rule11 Violated: Variable declared in loop.
+week1-19/s039/DownloadingFiles.hpp:36:3: Rule11 Violated: Variable declared in loop.
+",,,,,
+s006,,"week1-19/s006/ThrowTheBall.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s006/ThrowTheBall.hpp:17:2: Rule11 Violated: Variable declared in loop.
+","week1-19/s006/AzimuthMonitoring.hpp:8:7: Rule9 Violated: Code that is never executed.
+week1-19/s006/AzimuthMonitoring.hpp:19:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s006/Inchworm.hpp:4:7: Rule9 Violated: Code that is never executed.
+week1-19/s006/Inchworm.hpp:12:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s006/StreetParking.hpp:61:4: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s006/StreetParking.hpp:7:7: Rule9 Violated: Code that is never executed.
+week1-19/s006/StreetParking.hpp:23:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s006/EggCartons.hpp:5:7: Rule9 Violated: Code that is never executed.
+","week1-19/s006/PartySeats.hpp:10:7: Rule9 Violated: Code that is never executed.
+week1-19/s006/PartySeats.hpp:38:3: Rule11 Violated: Variable declared in loop.
+week1-19/s006/PartySeats.hpp:82:4: Rule11 Violated: Variable declared in loop.
+",,,,,,
+s001,,"week1-19/s001/ThrowTheBall.hpp:26:9: and week1-19/s001/ThrowTheBall.hpp:33:9 Rule7 Violated: Repeated statement(s) in branches of conditional statement (could be taken out).
+week1-19/s001/ThrowTheBall.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s001/ThrowTheBall.hpp:11:5: Rule11 Violated: Variable declared in loop.
+","week1-19/s001/AzimuthMonitoring.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s001/AzimuthMonitoring.hpp:17:5: Rule11 Violated: Variable declared in loop.
+","week1-19/s001/Inchworm.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s001/Inchworm.hpp:12:4: Rule11 Violated: Variable declared in loop.
+","week1-19/s001/StreetParking.hpp:14:7: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s001/StreetParking.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s001/StreetParking.hpp:13:5: Rule11 Violated: Variable declared in loop.
+","week1-19/s001/EggCartons.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s001/EggCartons.hpp:24:10: Rule11 Violated: Variable declared in loop.
+",,,,,,,
+s055,,"week1-19/s055/ThrowTheBall.hpp:4:7: Rule9 Violated: Code that is never executed.
+week1-19/s055/ThrowTheBall.hpp:9:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s055/AzimuthMonitoring.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s055/AzimuthMonitoring.hpp:11:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s055/Inchworm.hpp:4:7: Rule9 Violated: Code that is never executed.
+week1-19/s055/Inchworm.hpp:8:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s055/StreetParking.hpp:11:4: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s055/StreetParking.hpp:12:5: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s055/StreetParking.hpp:13:6: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s055/StreetParking.hpp:14:7: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s055/StreetParking.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s055/StreetParking.hpp:10:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s055/EggCartons.hpp:4:7: Rule9 Violated: Code that is never executed.
+",,,,,"week1-19/s055/DownloadingFile.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s055/DownloadingFile.hpp:11:3: Rule11 Violated: Variable declared in loop.
+",,
+s052,"week1-19/s052/CircularLine.hpp:6:7: Rule9 Violated: Code that is never executed.
+","week1-19/s052/ThrowTheBall.hpp:7:7: Rule9 Violated: Code that is never executed.
+",,"week1-19/s052/Inchworm.hpp:4:7: Rule9 Violated: Code that is never executed.
+","week1-19/s052/StreetParking.hpp:6:7: Rule9 Violated: Code that is never executed.
+","week1-19/s052/EggCartons.hpp:8:7: Rule9 Violated: Code that is never executed.
+",,,,,,,
+s099,"week1-19/s099/CircularLine.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s099/CircularLine.hpp:18:5: Rule11 Violated: Variable declared in loop.
+week1-19/s099/CircularLine.hpp:19:7: Rule11 Violated: Variable declared in loop.
+week1-19/s099/CircularLine.hpp:18:5: Rule13 Violated: Nested For Loop With Indices Comparison.
+","week1-19/s099/ThrowTheBall.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s099/ThrowTheBall.hpp:12:5: Rule11 Violated: Variable declared in loop.
+","week1-19/s099/AzimuthMonitoring.hpp:8:7: Rule9 Violated: Code that is never executed.
+week1-19/s099/AzimuthMonitoring.hpp:17:5: Rule11 Violated: Variable declared in loop.
+","week1-19/s099/Inchworm.hpp:4:7: Rule9 Violated: Code that is never executed.
+","week1-19/s099/StreetParking.hpp:23:7: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s099/StreetParking.hpp:28:7: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s099/StreetParking.hpp:33:7: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s099/StreetParking.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s099/StreetParking.hpp:15:5: Rule11 Violated: Variable declared in loop.
+week1-19/s099/StreetParking.hpp:19:5: Rule11 Violated: Variable declared in loop.
+week1-19/s099/StreetParking.hpp:40:5: Rule11 Violated: Variable declared in loop.
+",,,,,,,,
+s090,"week1-19/s090/CircularLine.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s090/CircularLine.hpp:12:5: Rule11 Violated: Variable declared in loop.
+week1-19/s090/CircularLine.hpp:13:7: Rule11 Violated: Variable declared in loop.
+week1-19/s090/CircularLine.hpp:17:9: Rule11 Violated: Variable declared in loop.
+week1-19/s090/CircularLine.hpp:21:9: Rule11 Violated: Variable declared in loop.
+","week1-19/s090/ThrowTheBall.hpp:4:7: Rule9 Violated: Code that is never executed.
+","week1-19/s090/AzimuthMonitoring.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s090/AzimuthMonitoring.hpp:12:5: Rule11 Violated: Variable declared in loop.
+","week1-19/s090/Inchworm.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s090/Inchworm.hpp:12:5: Rule11 Violated: Variable declared in loop.
+","week1-19/s090/StreetParking.hpp:14:7: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s090/StreetParking.hpp:18:7: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s090/StreetParking.hpp:18:7: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s090/StreetParking.hpp:22:7: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s090/StreetParking.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s090/StreetParking.hpp:12:5: Rule11 Violated: Variable declared in loop.
+",,,,,,,,
+s064,,"week1-19/s064/ThrowTheBall.hpp:5:7: Rule9 Violated: Code that is never executed.
+",,"week1-19/s064/Inchworm.hpp:5:7: Rule9 Violated: Code that is never executed.
+","week1-19/s064/StreetParking.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s064/StreetParking.hpp:54:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s064/EggCartons.hpp:16:3: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s064/EggCartons.hpp:20:3: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s064/EggCartons.hpp:20:3: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s064/EggCartons.hpp:24:3: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s064/EggCartons.hpp:4:7: Rule9 Violated: Code that is never executed.
+",,"week1-19/s064/DownloadingFiles.hpp:27:31: Rule8 Violated: The block associated with the IF (or ELSE) has no statements (or self-assignment).
+week1-19/s064/DownloadingFiles.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s064/DownloadingFiles.hpp:18:3: Rule11 Violated: Variable declared in loop.
+week1-19/s064/DownloadingFiles.hpp:27:3: Rule11 Violated: Variable declared in loop.
+",,,,,
+s063,,"week1-19/s063/ThrowTheBall.hpp:46:9: and week1-19/s063/ThrowTheBall.hpp:50:9 Rule7 Violated: Repeated statement(s) in branches of conditional statement (could be taken out).
+week1-19/s063/ThrowTheBall.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s063/ThrowTheBall.hpp:20:5: Rule11 Violated: Variable declared in loop.
+","week1-19/s063/AzimuthMonitoring.hpp:8:7: Rule9 Violated: Code that is never executed.
+week1-19/s063/AzimuthMonitoring.hpp:27:5: Rule11 Violated: Variable declared in loop.
+","week1-19/s063/Inchworm.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s063/Inchworm.hpp:13:5: Rule11 Violated: Variable declared in loop.
+","week1-19/s063/StreetParking.hpp:7:7: Rule9 Violated: Code that is never executed.
+week1-19/s063/StreetParking.hpp:23:5: Rule11 Violated: Variable declared in loop.
+","week1-19/s063/EggCartons.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s063/EggCartons.hpp:20:5: Rule11 Violated: Variable declared in loop.
+week1-19/s063/EggCartons.hpp:25:5: Rule11 Violated: Variable declared in loop.
+week1-19/s063/EggCartons.hpp:48:7: Rule11 Violated: Variable declared in loop.
+week1-19/s063/EggCartons.hpp:64:5: Rule11 Violated: Variable declared in loop.
+",,,,,,,
+s097,,"week1-19/s097/ThrowTheBall.hpp:8:7: Rule9 Violated: Code that is never executed.
+","week1-19/s097/AzimuthMonitoring.hpp:9:8: Rule9 Violated: Code that is never executed.
+","week1-19/s097/Inchworm.hpp:8:7: Rule9 Violated: Code that is never executed.
+",,"week1-19/s097/EggCartons.hpp:8:8: Rule9 Violated: Code that is never executed.
+",,"week1-19/s097/DownloadingFiles.hpp:9:8: Rule9 Violated: Code that is never executed.
+",,,,,
+s041,"week1-19/s041/CircularLine.hpp:3:7: Rule9 Violated: Code that is never executed.
+week1-19/s041/CircularLine.hpp:13:2: Rule11 Violated: Variable declared in loop.
+week1-19/s041/CircularLine.hpp:26:2: Rule11 Violated: Variable declared in loop.
+week1-19/s041/CircularLine.hpp:27:3: Rule11 Violated: Variable declared in loop.
+week1-19/s041/CircularLine.hpp:26:2: Rule13 Violated: Nested For Loop With Indices Comparison.
+","week1-19/s041/ThrowTheBall.hpp:4:7: Rule9 Violated: Code that is never executed.
+week1-19/s041/ThrowTheBall.hpp:10:2: Rule11 Violated: Variable declared in loop.
+","week1-19/s041/AzimuthMonitoring.hpp:4:7: Rule9 Violated: Code that is never executed.
+week1-19/s041/AzimuthMonitoring.hpp:11:2: Rule11 Violated: Variable declared in loop.
+","week1-19/s041/Inchworm.hpp:5:7: Rule9 Violated: Code that is never executed.
+","week1-19/s041/StreetParking.hpp:4:7: Rule9 Violated: Code that is never executed.
+","week1-19/s041/EggCartons.hpp:11:5: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s041/EggCartons.hpp:14:5: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s041/EggCartons.hpp:23:7: and week1-19/s041/EggCartons.hpp:27:7 Rule7 Violated: Repeated statement(s) in branches of conditional statement (could be taken out).
+week1-19/s041/EggCartons.hpp:4:7: Rule9 Violated: Code that is never executed.
+",,,,,,,
+s079,,"week1-19/s079/ThrowTheBall.hpp:8:7: Rule9 Violated: Code that is never executed.
+week1-19/s079/ThrowTheBall.hpp:30:3: Rule11 Violated: Variable declared in loop.
+",,"week1-19/s079/Inchworm.hpp:9:7: Rule9 Violated: Code that is never executed.
+","week1-19/s079/StreetParking.hpp:25:5: Rule9 Violated: Code that is never executed.
+week1-19/s079/StreetParking.hpp:9:7: Rule9 Violated: Code that is never executed.
+week1-19/s079/StreetParking.hpp:15:3: Rule11 Violated: Variable declared in loop.
+week1-19/s079/StreetParking.hpp:35:3: Rule11 Violated: Variable declared in loop.
+",,,"week1-19/s079/DownloadingFiles.hpp:11:7: Rule9 Violated: Code that is never executed.
+week1-19/s079/DownloadingFiles.hpp:24:3: Rule11 Violated: Variable declared in loop.
+week1-19/s079/DownloadingFiles.hpp:48:5: Rule11 Violated: Variable declared in loop.
+week1-19/s079/DownloadingFiles.hpp:65:5: Rule11 Violated: Variable declared in loop.
+",,,,,
+s046,"week1-19/s046/CircularLine.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s046/CircularLine.hpp:15:3: Rule11 Violated: Variable declared in loop.
+week1-19/s046/CircularLine.hpp:34:3: Rule11 Violated: Variable declared in loop.
+week1-19/s046/CircularLine.hpp:39:4: Rule11 Violated: Variable declared in loop.
+","week1-19/s046/ThrowTheBall.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s046/ThrowTheBall.hpp:22:5: Rule11 Violated: Variable declared in loop.
+week1-19/s046/ThrowTheBall.hpp:69:5: Rule11 Violated: Variable declared in loop.
+",,"week1-19/s046/Inchworm.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s046/Inchworm.hpp:17:5: Rule11 Violated: Variable declared in loop.
+","week1-19/s046/StreetParking.hpp:23:7: Rule9 Violated: Code that is never executed.
+week1-19/s046/StreetParking.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s046/StreetParking.hpp:14:5: Rule11 Violated: Variable declared in loop.
+week1-19/s046/StreetParking.hpp:30:5: Rule11 Violated: Variable declared in loop.
+","week1-19/s046/EggCartons.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s046/EggCartons.hpp:27:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s046/PartySeats.hpp:30:4: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s046/PartySeats.hpp:70:8: Rule5 Violated: Checking an expression that has a known True/False value.
+week1-19/s046/PartySeats.hpp:18:2: Rule8 Violated: The block associated with the IF (or ELSE) has no statements (or self-assignment).
+week1-19/s046/PartySeats.hpp:47:2: Rule8 Violated: The block associated with the IF (or ELSE) has no statements (or self-assignment).
+week1-19/s046/PartySeats.hpp:8:7: Rule9 Violated: Code that is never executed.
+week1-19/s046/PartySeats.hpp:24:2: Rule11 Violated: Variable declared in loop.
+week1-19/s046/PartySeats.hpp:28:3: Rule11 Violated: Variable declared in loop.
+week1-19/s046/PartySeats.hpp:57:2: Rule11 Violated: Variable declared in loop.
+",,,,,,
+s084,,"week1-19/s084/ThrowTheBall.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s084/ThrowTheBall.hpp:31:5: Rule11 Violated: Variable declared in loop.
+week1-19/s084/ThrowTheBall.hpp:39:6: Rule11 Violated: Variable declared in loop.
+week1-19/s084/ThrowTheBall.hpp:98:5: Rule11 Violated: Variable declared in loop.
+","week1-19/s084/AzimuthMonitoring.hpp:8:7: Rule9 Violated: Code that is never executed.
+week1-19/s084/AzimuthMonitoring.hpp:18:10: Rule11 Violated: Variable declared in loop.
+","week1-19/s084/Inchworm.hpp:8:7: Rule9 Violated: Code that is never executed.
+week1-19/s084/Inchworm.hpp:20:5: Rule11 Violated: Variable declared in loop.
+",,"week1-19/s084/EggCartons.hpp:4:7: Rule9 Violated: Code that is never executed.
+","week1-19/s084/PartySeats.hpp:8:7: Rule9 Violated: Code that is never executed.
+week1-19/s084/PartySeats.hpp:31:13: Rule11 Violated: Variable declared in loop.
+week1-19/s084/PartySeats.hpp:75:19: Rule11 Violated: Variable declared in loop.
+",,,,,,
+s070,,"week1-19/s070/ThrowTheBall.hpp:5:7: Rule9 Violated: Code that is never executed.
+","week1-19/s070/AzimuthMonitoring.hpp:8:7: Rule9 Violated: Code that is never executed.
+week1-19/s070/AzimuthMonitoring.hpp:20:4: Rule11 Violated: Variable declared in loop.
+","week1-19/s070/Inchworm.hpp:5:7: Rule9 Violated: Code that is never executed.
+","week1-19/s070/StreetParking.hpp:16:4: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s070/StreetParking.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s070/StreetParking.hpp:14:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s070/EggCartons.hpp:6:7: Rule9 Violated: Code that is never executed.
+",,,,,,,
+s048,,"week1-19/s048/ThrowTheBall.hpp:18:19: Rule9 Violated: Code that is never executed.
+week1-19/s048/ThrowTheBall.hpp:4:7: Rule9 Violated: Code that is never executed.
+week1-19/s048/ThrowTheBall.hpp:23:5: Rule11 Violated: Variable declared in loop.
+",,"week1-19/s048/Inchworm.hpp:28:2: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s048/Inchworm.hpp:29:2: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s048/Inchworm.hpp:29:2: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s048/Inchworm.hpp:30:2: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s048/Inchworm.hpp:13:15: Rule9 Violated: Code that is never executed.
+week1-19/s048/Inchworm.hpp:7:7: Rule9 Violated: Code that is never executed.
+",,"week1-19/s048/EggCartons.hpp:10:17: Rule9 Violated: Code that is never executed.
+week1-19/s048/EggCartons.hpp:1:7: Rule9 Violated: Code that is never executed.
+","week1-19/s048/PartySeats.hpp:72:13: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s048/PartySeats.hpp:73:13: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s048/PartySeats.hpp:73:13: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s048/PartySeats.hpp:74:13: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s048/PartySeats.hpp:80:13: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s048/PartySeats.hpp:81:13: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s048/PartySeats.hpp:81:13: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s048/PartySeats.hpp:82:13: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s048/PartySeats.hpp:47:28: Rule9 Violated: Code that is never executed.
+week1-19/s048/PartySeats.hpp:24:18: Rule9 Violated: Code that is never executed.
+week1-19/s048/PartySeats.hpp:15:20: Rule9 Violated: Code that is never executed.
+week1-19/s048/PartySeats.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s048/PartySeats.hpp:61:5: Rule11 Violated: Variable declared in loop.
+week1-19/s048/PartySeats.hpp:94:5: Rule11 Violated: Variable declared in loop.
+week1-19/s048/PartySeats.hpp:100:5: Rule11 Violated: Variable declared in loop.
+week1-19/s048/PartySeats.hpp:31:9: Rule11 Violated: Variable declared in loop.
+week1-19/s048/PartySeats.hpp:19:5: Rule11 Violated: Variable declared in loop.
+","week1-19/s048/DownloadingFiles.hpp:12:26: Rule9 Violated: Code that is never executed.
+week1-19/s048/DownloadingFiles.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s048/DownloadingFiles.hpp:17:5: Rule11 Violated: Variable declared in loop.
+",,,,,
+s077,"week1-19/s077/CircularLine.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s077/CircularLine.hpp:15:3: Rule11 Violated: Variable declared in loop.
+week1-19/s077/CircularLine.hpp:16:4: Rule11 Violated: Variable declared in loop.
+week1-19/s077/CircularLine.hpp:21:5: Rule11 Violated: Variable declared in loop.
+week1-19/s077/CircularLine.hpp:26:5: Rule11 Violated: Variable declared in loop.
+week1-19/s077/CircularLine.hpp:31:5: Rule11 Violated: Variable declared in loop.
+","week1-19/s077/ThrowTheBall.hpp:1:7: Rule9 Violated: Code that is never executed.
+week1-19/s077/ThrowTheBall.hpp:9:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s077/AzimuthMonitoring.hpp:7:7: Rule9 Violated: Code that is never executed.
+week1-19/s077/AzimuthMonitoring.hpp:15:3: Rule11 Violated: Variable declared in loop.
+week1-19/s077/AzimuthMonitoring.hpp:32:5: Rule11 Violated: Variable declared in loop.
+","week1-19/s077/Inchworm.hpp:5:7: Rule9 Violated: Code that is never executed.
+","week1-19/s077/StreetParking.hpp:13:4: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s077/StreetParking.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s077/StreetParking.hpp:12:3: Rule11 Violated: Variable declared in loop.
+",,,,,,,,
+s023,"week1-19/s023/CircularLine.hpp:63:11: Rule5 Violated: Checking an expression that has a known True/False value.
+week1-19/s023/CircularLine.hpp:8:7: Rule9 Violated: Code that is never executed.
+week1-19/s023/CircularLine.hpp:38:3: Rule11 Violated: Variable declared in loop.
+week1-19/s023/CircularLine.hpp:40:4: Rule11 Violated: Variable declared in loop.
+","week1-19/s023/ThrowTheBall.hpp:7:7: Rule9 Violated: Code that is never executed.
+","week1-19/s023/AzimuthMonitoring.hpp:8:7: Rule9 Violated: Code that is never executed.
+week1-19/s023/AzimuthMonitoring.hpp:31:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s023/Inchworm.hpp:5:7: Rule9 Violated: Code that is never executed.
+","week1-19/s023/StreetParking.hpp:25:4: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s023/StreetParking.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s023/StreetParking.hpp:14:3: Rule11 Violated: Variable declared in loop.
+",,,,,,,,
+s012,,,"week1-19/s012/AzimuthMonitoring.hpp:8:7: Rule9 Violated: Code that is never executed.
+week1-19/s012/AzimuthMonitoring.hpp:18:9: Rule11 Violated: Variable declared in loop.
+","week1-19/s012/Inchworm.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s012/Inchworm.hpp:11:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s012/StreetParking.hpp:15:26: Rule8 Violated: The block associated with the IF (or ELSE) has no statements (or self-assignment).
+week1-19/s012/StreetParking.hpp:15:77: Rule8 Violated: The block associated with the IF (or ELSE) has no statements (or self-assignment).
+week1-19/s012/StreetParking.hpp:21:77: Rule8 Violated: The block associated with the IF (or ELSE) has no statements (or self-assignment).
+week1-19/s012/StreetParking.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s012/StreetParking.hpp:14:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s012/EggCartons.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s012/EggCartons.hpp:13:9: Rule11 Violated: Variable declared in loop.
+week1-19/s012/EggCartons.hpp:15:4: Rule11 Violated: Variable declared in loop.
+","week1-19/s012/PartySeats.hpp:8:7: Rule9 Violated: Code that is never executed.
+week1-19/s012/PartySeats.hpp:26:9: Rule11 Violated: Variable declared in loop.
+week1-19/s012/PartySeats.hpp:46:9: Rule11 Violated: Variable declared in loop.
+week1-19/s012/PartySeats.hpp:54:9: Rule11 Violated: Variable declared in loop.
+",,,,,,
+s015,,"week1-19/s015/ThrowTheBall.hpp:5:7: Rule9 Violated: Code that is never executed.
+","week1-19/s015/AzimuthMonitoring.hpp:7:7: Rule9 Violated: Code that is never executed.
+week1-19/s015/AzimuthMonitoring.hpp:15:13: Rule11 Violated: Variable declared in loop.
+","week1-19/s015/Inchworm.hpp:4:7: Rule9 Violated: Code that is never executed.
+","week1-19/s015/StreetParking.hpp:12:5: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s015/StreetParking.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s015/StreetParking.hpp:11:4: Rule11 Violated: Variable declared in loop.
+","week1-19/s015/EggCartons.hpp:4:7: Rule9 Violated: Code that is never executed.
+",,,,,,,
+s049,,"week1-19/s049/ThrowTheBall.hpp:4:7: Rule9 Violated: Code that is never executed.
+","week1-19/s049/AzimuthMonitoring.hpp:17:25: Rule9 Violated: Code that is never executed.
+week1-19/s049/AzimuthMonitoring.hpp:24:25: Rule9 Violated: Code that is never executed.
+week1-19/s049/AzimuthMonitoring.hpp:31:25: Rule9 Violated: Code that is never executed.
+week1-19/s049/AzimuthMonitoring.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s049/AzimuthMonitoring.hpp:12:13: Rule11 Violated: Variable declared in loop.
+","week1-19/s049/Inchworm.hpp:4:7: Rule9 Violated: Code that is never executed.
+week1-19/s049/Inchworm.hpp:8:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s049/StreetParking.hpp:12:5: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s049/StreetParking.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s049/StreetParking.hpp:10:4: Rule11 Violated: Variable declared in loop.
+",,,"week1-19/s049/DownloadingFiles.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s049/DownloadingFiles.hpp:15:4: Rule11 Violated: Variable declared in loop.
+",,,,,
+s082,,"week1-19/s082/ThrowTheBall.hpp:32:19: Rule9 Violated: Code that is never executed.
+week1-19/s082/ThrowTheBall.hpp:11:19: Rule9 Violated: Code that is never executed.
+week1-19/s082/ThrowTheBall.hpp:3:7: Rule9 Violated: Code that is never executed.
+",,"week1-19/s082/Inchworm.hpp:11:15: Rule9 Violated: Code that is never executed.
+week1-19/s082/Inchworm.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s082/Inchworm.hpp:14:2: Rule11 Violated: Variable declared in loop.
+","week1-19/s082/StreetParking.hpp:14:3: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s082/StreetParking.hpp:17:3: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s082/StreetParking.hpp:25:4: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s082/StreetParking.hpp:28:4: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s082/StreetParking.hpp:34:4: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s082/StreetParking.hpp:37:4: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s082/StreetParking.hpp:10:20: Rule9 Violated: Code that is never executed.
+week1-19/s082/StreetParking.hpp:4:7: Rule9 Violated: Code that is never executed.
+week1-19/s082/StreetParking.hpp:12:2: Rule11 Violated: Variable declared in loop.
+","week1-19/s082/EggCartons.hpp:12:17: Rule9 Violated: Code that is never executed.
+week1-19/s082/EggCartons.hpp:7:7: Rule9 Violated: Code that is never executed.
+week1-19/s082/EggCartons.hpp:25:3: Rule11 Violated: Variable declared in loop.
+week1-19/s082/EggCartons.hpp:26:4: Rule11 Violated: Variable declared in loop.
+",,"week1-19/s082/DownloadingFiles.hpp:125:24: Rule9 Violated: Code that is never executed.
+week1-19/s082/DownloadingFiles.hpp:112:23: Rule9 Violated: Code that is never executed.
+week1-19/s082/DownloadingFiles.hpp:100:23: Rule9 Violated: Code that is never executed.
+week1-19/s082/DownloadingFiles.hpp:88:24: Rule9 Violated: Code that is never executed.
+week1-19/s082/DownloadingFiles.hpp:77:24: Rule9 Violated: Code that is never executed.
+week1-19/s082/DownloadingFiles.hpp:49:26: Rule9 Violated: Code that is never executed.
+week1-19/s082/DownloadingFiles.hpp:18:26: Rule9 Violated: Code that is never executed.
+week1-19/s082/DownloadingFiles.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s082/DownloadingFiles.hpp:115:2: Rule11 Violated: Variable declared in loop.
+week1-19/s082/DownloadingFiles.hpp:103:2: Rule11 Violated: Variable declared in loop.
+week1-19/s082/DownloadingFiles.hpp:89:2: Rule11 Violated: Variable declared in loop.
+week1-19/s082/DownloadingFiles.hpp:79:2: Rule11 Violated: Variable declared in loop.
+week1-19/s082/DownloadingFiles.hpp:55:2: Rule11 Violated: Variable declared in loop.
+week1-19/s082/DownloadingFiles.hpp:27:2: Rule11 Violated: Variable declared in loop.
+",,,,,
+s076,,"week1-19/s076/ThrowTheBall.hpp:38:5: and week1-19/s076/ThrowTheBall.hpp:49:5 Rule7 Violated: Repeated statement(s) in branches of conditional statement (could be taken out).
+week1-19/s076/ThrowTheBall.hpp:37:5: and week1-19/s076/ThrowTheBall.hpp:48:5 Rule7 Violated: Repeated statement(s) in branches of conditional statement (could be taken out).
+week1-19/s076/ThrowTheBall.hpp:33:5: and week1-19/s076/ThrowTheBall.hpp:44:5 Rule7 Violated: Repeated statement(s) in branches of conditional statement (could be taken out).
+week1-19/s076/ThrowTheBall.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s076/ThrowTheBall.hpp:17:6: Rule11 Violated: Variable declared in loop.
+","week1-19/s076/AzimuthMonitoring.hpp:8:7: Rule9 Violated: Code that is never executed.
+week1-19/s076/AzimuthMonitoring.hpp:25:6: Rule11 Violated: Variable declared in loop.
+week1-19/s076/AzimuthMonitoring.hpp:33:6: Rule11 Violated: Variable declared in loop.
+week1-19/s076/AzimuthMonitoring.hpp:56:6: Rule11 Violated: Variable declared in loop.
+week1-19/s076/AzimuthMonitoring.hpp:64:6: Rule11 Violated: Variable declared in loop.
+","week1-19/s076/Inchworm.hpp:4:7: Rule9 Violated: Code that is never executed.
+week1-19/s076/Inchworm.hpp:15:4: Rule11 Violated: Variable declared in loop.
+week1-19/s076/Inchworm.hpp:28:4: Rule11 Violated: Variable declared in loop.
+","week1-19/s076/StreetParking.hpp:22:9: Rule8 Violated: The block associated with the IF (or ELSE) has no statements (or self-assignment).
+week1-19/s076/StreetParking.hpp:31:9: Rule8 Violated: The block associated with the IF (or ELSE) has no statements (or self-assignment).
+week1-19/s076/StreetParking.hpp:8:7: Rule9 Violated: Code that is never executed.
+week1-19/s076/StreetParking.hpp:59:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s076/EggCartons.hpp:4:7: Rule9 Violated: Code that is never executed.
+",,,,,,,
+s071,,"week1-19/s071/ThrowTheBall.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s071/ThrowTheBall.hpp:11:4: Rule11 Violated: Variable declared in loop.
+",,"week1-19/s071/Inchworm.hpp:4:7: Rule9 Violated: Code that is never executed.
+week1-19/s071/Inchworm.hpp:19:5: Rule11 Violated: Variable declared in loop.
+",,"week1-19/s071/EggCartons.hpp:5:7: Rule9 Violated: Code that is never executed.
+","week1-19/s071/PartySeats.hpp:14:31: Rule8 Violated: The block associated with the IF (or ELSE) has no statements (or self-assignment).
+week1-19/s071/PartySeats.hpp:7:7: Rule9 Violated: Code that is never executed.
+week1-19/s071/PartySeats.hpp:24:7: Rule11 Violated: Variable declared in loop.
+week1-19/s071/PartySeats.hpp:52:7: Rule11 Violated: Variable declared in loop.
+","week1-19/s071/DownloadingFiles.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s071/DownloadingFiles.hpp:10:4: Rule11 Violated: Variable declared in loop.
+week1-19/s071/DownloadingFiles.hpp:22:4: Rule11 Violated: Variable declared in loop.
+week1-19/s071/DownloadingFiles.hpp:34:4: Rule11 Violated: Variable declared in loop.
+",,,,,
+s085,"week1-19/s085/CircularLine.hpp:11:7: Rule9 Violated: Code that is never executed.
+week1-19/s085/CircularLine.hpp:17:9: Rule11 Violated: Variable declared in loop.
+week1-19/s085/CircularLine.hpp:18:13: Rule11 Violated: Variable declared in loop.
+week1-19/s085/CircularLine.hpp:21:17: Rule11 Violated: Variable declared in loop.
+week1-19/s085/CircularLine.hpp:22:21: Rule11 Violated: Variable declared in loop.
+week1-19/s085/CircularLine.hpp:23:25: Rule11 Violated: Variable declared in loop.
+","week1-19/s085/ThrowTheBall.hpp:10:7: Rule9 Violated: Code that is never executed.
+week1-19/s085/ThrowTheBall.hpp:20:9: Rule11 Violated: Variable declared in loop.
+","week1-19/s085/AzimuthMonitoring.hpp:13:7: Rule9 Violated: Code that is never executed.
+week1-19/s085/AzimuthMonitoring.hpp:36:8: Rule11 Violated: Variable declared in loop.
+","week1-19/s085/Inchworm.hpp:7:7: Rule9 Violated: Code that is never executed.
+week1-19/s085/Inchworm.hpp:18:9: Rule11 Violated: Variable declared in loop.
+","week1-19/s085/StreetParking.hpp:11:7: Rule9 Violated: Code that is never executed.
+week1-19/s085/StreetParking.hpp:17:9: Rule11 Violated: Variable declared in loop.
+",,,,,,,,
+s078,"week1-19/s078/CircularLine.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s078/CircularLine.hpp:15:5: Rule11 Violated: Variable declared in loop.
+week1-19/s078/CircularLine.hpp:17:3: Rule11 Violated: Variable declared in loop.
+week1-19/s078/CircularLine.hpp:27:7: Rule11 Violated: Variable declared in loop.
+week1-19/s078/CircularLine.hpp:30:7: Rule11 Violated: Variable declared in loop.
+week1-19/s078/CircularLine.hpp:15:5: Rule13 Violated: Nested For Loop With Indices Comparison.
+","week1-19/s078/ThrowTheBall.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s078/ThrowTheBall.hpp:15:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s078/AzimuthMonitoring.hpp:8:7: Rule9 Violated: Code that is never executed.
+week1-19/s078/AzimuthMonitoring.hpp:15:3: Rule11 Violated: Variable declared in loop.
+week1-19/s078/AzimuthMonitoring.hpp:26:5: Rule11 Violated: Variable declared in loop.
+","week1-19/s078/Inchworm.hpp:5:7: Rule9 Violated: Code that is never executed.
+","week1-19/s078/StreetParking.hpp:20:17: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s078/StreetParking.hpp:15:17: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s078/StreetParking.hpp:17:17: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s078/StreetParking.hpp:17:17: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s078/StreetParking.hpp:19:17: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s078/StreetParking.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s078/StreetParking.hpp:12:9: Rule11 Violated: Variable declared in loop.
+",,,,,,,,
+s047,"week1-19/s047/CircularLine.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s047/CircularLine.hpp:14:5: Rule11 Violated: Variable declared in loop.
+week1-19/s047/CircularLine.hpp:29:7: Rule11 Violated: Variable declared in loop.
+week1-19/s047/CircularLine.hpp:34:9: Rule11 Violated: Variable declared in loop.
+","week1-19/s047/ThrowTheBall.hpp:4:7: Rule9 Violated: Code that is never executed.
+week1-19/s047/ThrowTheBall.hpp:12:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s047/AzimuthMonitoring.hpp:7:7: Rule9 Violated: Code that is never executed.
+","week1-19/s047/Inchworm.hpp:5:7: Rule9 Violated: Code that is never executed.
+","week1-19/s047/StreetParking.hpp:47:11: Rule1 Violated: No need to check if Boolean variable is equal to true or false.
+week1-19/s047/StreetParking.hpp:22:9: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s047/StreetParking.hpp:30:9: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s047/StreetParking.hpp:38:9: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s047/StreetParking.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s047/StreetParking.hpp:13:5: Rule11 Violated: Variable declared in loop.
+",,,,,,,,
+s040,,"week1-19/s040/ThrowTheBall.hpp:9:7: Rule9 Violated: Code that is never executed.
+week1-19/s040/ThrowTheBall.hpp:15:9: Rule11 Violated: Variable declared in loop.
+","week1-19/s040/AzimuthMonitoring.hpp:9:7: Rule9 Violated: Code that is never executed.
+week1-19/s040/AzimuthMonitoring.hpp:16:9: Rule11 Violated: Variable declared in loop.
+","week1-19/s040/Inchworm.hpp:6:7: Rule9 Violated: Code that is never executed.
+","week1-19/s040/StreetParking.hpp:15:13: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s040/StreetParking.hpp:17:21: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s040/StreetParking.hpp:9:7: Rule9 Violated: Code that is never executed.
+week1-19/s040/StreetParking.hpp:14:9: Rule11 Violated: Variable declared in loop.
+","week1-19/s040/EggCartons.hpp:8:7: Rule9 Violated: Code that is never executed.
+",,,,,,,
+s014,,"week1-19/s014/ThrowTheBall.hpp:3:7: Rule9 Violated: Code that is never executed.
+week1-19/s014/ThrowTheBall.hpp:9:3: Rule11 Violated: Variable declared in loop.
+",,"week1-19/s014/Inchworm.hpp:3:7: Rule9 Violated: Code that is never executed.
+","week1-19/s014/StreetParking.hpp:11:4: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s014/StreetParking.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s014/StreetParking.hpp:10:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s014/EggCartons.hpp:4:7: Rule9 Violated: Code that is never executed.
+week1-19/s014/EggCartons.hpp:14:3: Rule11 Violated: Variable declared in loop.
+week1-19/s014/EggCartons.hpp:15:4: Rule11 Violated: Variable declared in loop.
+",,"week1-19/s014/DownloadingFiles.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s014/DownloadingFiles.hpp:11:3: Rule11 Violated: Variable declared in loop.
+week1-19/s014/DownloadingFiles.hpp:20:3: Rule11 Violated: Variable declared in loop.
+week1-19/s014/DownloadingFiles.hpp:32:3: Rule11 Violated: Variable declared in loop.
+",,,,"week1-19/s014/ChangingString.hpp:31:6: Rule1 Violated: No need to check if Boolean variable is equal to true or false.
+week1-19/s014/ChangingString.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s014/ChangingString.hpp:12:3: Rule11 Violated: Variable declared in loop.
+week1-19/s014/ChangingString.hpp:24:3: Rule11 Violated: Variable declared in loop.
+week1-19/s014/ChangingString.hpp:32:4: Rule11 Violated: Variable declared in loop.
+",
+s013,"week1-19/s013/CircularLine.hpp:4:7: Rule9 Violated: Code that is never executed.
+","week1-19/s013/ThrowTheBall.hpp:3:7: Rule9 Violated: Code that is never executed.
+week1-19/s013/ThrowTheBall.hpp:8:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s013/AzimuthMonitoring.hpp:4:7: Rule9 Violated: Code that is never executed.
+week1-19/s013/AzimuthMonitoring.hpp:10:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s013/Inchworm.hpp:42:11: Rule1 Violated: No need to check if Boolean variable is equal to true or false.
+week1-19/s013/Inchworm.hpp:58:5: Rule8 Violated: The block associated with the IF (or ELSE) has no statements (or self-assignment).
+week1-19/s013/Inchworm.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s013/Inchworm.hpp:20:5: Rule11 Violated: Variable declared in loop.
+week1-19/s013/Inchworm.hpp:36:5: Rule11 Violated: Variable declared in loop.
+week1-19/s013/Inchworm.hpp:58:6: Rule11 Violated: Variable declared in loop.
+week1-19/s013/Inchworm.hpp:21:5: Rule12 Violated: Consider refactoring the loop to remove the initial 'if' condition.
+","week1-19/s013/StreetParking.hpp:4:7: Rule9 Violated: Code that is never executed.
+week1-19/s013/StreetParking.hpp:10:3: Rule11 Violated: Variable declared in loop.
+week1-19/s013/StreetParking.hpp:38:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s013/EggCartons.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s013/EggCartons.hpp:48:7: Rule11 Violated: Variable declared in loop.
+",,"week1-19/s013/DownloadingFiles.hpp:4:7: Rule9 Violated: Code that is never executed.
+",,,,,
+s025,,,,"week1-19/s025/Inchworm.hpp:5:7: Rule9 Violated: Code that is never executed.
+","week1-19/s025/StreetParking.hpp:15:4: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s025/StreetParking.hpp:27:11: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s025/StreetParking.hpp:56:5: Rule9 Violated: Code that is never executed.
+week1-19/s025/StreetParking.hpp:3:7: Rule9 Violated: Code that is never executed.
+","week1-19/s025/EggCartons.hpp:3:7: Rule9 Violated: Code that is never executed.
+",,,,,,,
+s022,,,"week1-19/s022/AzimuthMonitoring.hpp:7:7: Rule9 Violated: Code that is never executed.
+","week1-19/s022/Inchworm.hpp:4:7: Rule9 Violated: Code that is never executed.
+week1-19/s022/Inchworm.hpp:13:3: Rule11 Violated: Variable declared in loop.
+week1-19/s022/Inchworm.hpp:18:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s022/StreetParking.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s022/StreetParking.hpp:12:3: Rule11 Violated: Variable declared in loop.
+week1-19/s022/StreetParking.hpp:15:3: Rule11 Violated: Variable declared in loop.
+week1-19/s022/StreetParking.hpp:49:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s022/EggCartons.hpp:12:3: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s022/EggCartons.hpp:13:3: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s022/EggCartons.hpp:5:7: Rule9 Violated: Code that is never executed.
+",,"week1-19/s022/DownloadingFiles.hpp:8:7: Rule9 Violated: Code that is never executed.
+",,,,,"week1-19/s022/getAzimuth.hpp:7:7: Rule9 Violated: Code that is never executed.
+"
+s132,,"week1-19/s132/ThrowTheBall.hpp:21:9: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s132/ThrowTheBall.hpp:5:7: Rule9 Violated: Code that is never executed.
+","week1-19/s132/AzimuthMonitoring.hpp:22:5: and week1-19/s132/AzimuthMonitoring.hpp:25:5 Rule7 Violated: Repeated statement(s) in branches of conditional statement (could be taken out).
+week1-19/s132/AzimuthMonitoring.hpp:8:7: Rule9 Violated: Code that is never executed.
+week1-19/s132/AzimuthMonitoring.hpp:14:3: Rule11 Violated: Variable declared in loop.
+week1-19/s132/AzimuthMonitoring.hpp:16:4: Rule11 Violated: Variable declared in loop.
+","week1-19/s132/Inchworm.hpp:4:7: Rule9 Violated: Code that is never executed.
+","week1-19/s132/StreetParking.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s132/StreetParking.hpp:9:3: Rule11 Violated: Variable declared in loop.
+week1-19/s132/StreetParking.hpp:27:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s132/EggCartons.hpp:4:7: Rule9 Violated: Code that is never executed.
+week1-19/s132/EggCartons.hpp:10:3: Rule11 Violated: Variable declared in loop.
+week1-19/s132/EggCartons.hpp:11:3: Rule11 Violated: Variable declared in loop.
+",,,,,,,
+s135,,"week1-19/s135/ThrowTheBall.hpp:1:7: Rule9 Violated: Code that is never executed.
+",,"week1-19/s135/Inchworm.hpp:4:7: Rule9 Violated: Code that is never executed.
+","week1-19/s135/StreetParking.hpp:4:7: Rule9 Violated: Code that is never executed.
+week1-19/s135/StreetParking.hpp:9:3: Rule11 Violated: Variable declared in loop.
+week1-19/s135/StreetParking.hpp:11:5: Rule11 Violated: Variable declared in loop.
+week1-19/s135/StreetParking.hpp:30:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s135/EggCartons.hpp:1:7: Rule9 Violated: Code that is never executed.
+week1-19/s135/EggCartons.hpp:5:3: Rule11 Violated: Variable declared in loop.
+",,"week1-19/s135/DownloadingFiles.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s135/DownloadingFiles.hpp:13:3: Rule11 Violated: Variable declared in loop.
+",,,,,
+s103,"week1-19/s103/CircularLine.hpp:7:7: Rule9 Violated: Code that is never executed.
+week1-19/s103/CircularLine.hpp:14:2: Rule11 Violated: Variable declared in loop.
+week1-19/s103/CircularLine.hpp:40:2: Rule11 Violated: Variable declared in loop.
+week1-19/s103/CircularLine.hpp:42:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s103/ThrowTheBall.hpp:3:7: Rule9 Violated: Code that is never executed.
+week1-19/s103/ThrowTheBall.hpp:12:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s103/AzimuthMonitoring.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s103/AzimuthMonitoring.hpp:23:2: Rule11 Violated: Variable declared in loop.
+","week1-19/s103/Inchworm.hpp:3:7: Rule9 Violated: Code that is never executed.
+week1-19/s103/Inchworm.hpp:11:4: Rule11 Violated: Variable declared in loop.
+","week1-19/s103/StreetParking.hpp:22:3: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s103/StreetParking.hpp:26:3: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s103/StreetParking.hpp:26:3: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s103/StreetParking.hpp:30:3: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s103/StreetParking.hpp:30:3: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s103/StreetParking.hpp:34:3: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s103/StreetParking.hpp:34:3: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s103/StreetParking.hpp:38:3: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s103/StreetParking.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s103/StreetParking.hpp:19:2: Rule11 Violated: Variable declared in loop.
+",,,,,,,,
+s104,,,"week1-19/s104/AzimuthMonitoring.hpp:7:7: Rule9 Violated: Code that is never executed.
+week1-19/s104/AzimuthMonitoring.hpp:13:7: Rule11 Violated: Variable declared in loop.
+","week1-19/s104/Inchworm.hpp:6:7: Rule9 Violated: Code that is never executed.
+","week1-19/s104/StreetParking.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s104/StreetParking.hpp:14:7: Rule11 Violated: Variable declared in loop.
+week1-19/s104/StreetParking.hpp:18:7: Rule11 Violated: Variable declared in loop.
+week1-19/s104/StreetParking.hpp:49:7: Rule11 Violated: Variable declared in loop.
+","week1-19/s104/EggCartons.hpp:25:11: and week1-19/s104/EggCartons.hpp:29:11 Rule7 Violated: Repeated statement(s) in branches of conditional statement (could be taken out).
+week1-19/s104/EggCartons.hpp:5:7: Rule9 Violated: Code that is never executed.
+",,"week1-19/s104/DownloadingFiles.hpp:8:7: Rule9 Violated: Code that is never executed.
+week1-19/s104/DownloadingFiles.hpp:17:7: Rule11 Violated: Variable declared in loop.
+week1-19/s104/DownloadingFiles.hpp:28:7: Rule11 Violated: Variable declared in loop.
+week1-19/s104/DownloadingFiles.hpp:34:9: Rule11 Violated: Variable declared in loop.
+week1-19/s104/DownloadingFiles.hpp:48:9: Rule11 Violated: Variable declared in loop.
+week1-19/s104/DownloadingFiles.hpp:59:9: Rule11 Violated: Variable declared in loop.
+",,,,,
+s105,"week1-19/s105/CircularLine.hpp:7:7: Rule9 Violated: Code that is never executed.
+week1-19/s105/CircularLine.hpp:18:7: Rule11 Violated: Variable declared in loop.
+week1-19/s105/CircularLine.hpp:22:7: Rule11 Violated: Variable declared in loop.
+week1-19/s105/CircularLine.hpp:25:7: Rule11 Violated: Variable declared in loop.
+week1-19/s105/CircularLine.hpp:31:7: Rule11 Violated: Variable declared in loop.
+week1-19/s105/CircularLine.hpp:35:7: Rule11 Violated: Variable declared in loop.
+week1-19/s105/CircularLine.hpp:39:7: Rule11 Violated: Variable declared in loop.
+week1-19/s105/CircularLine.hpp:54:5: Rule11 Violated: Variable declared in loop.
+week1-19/s105/CircularLine.hpp:55:7: Rule11 Violated: Variable declared in loop.
+week1-19/s105/CircularLine.hpp:54:5: Rule13 Violated: Nested For Loop With Indices Comparison.
+","week1-19/s105/ThrowTheBall.hpp:7:7: Rule9 Violated: Code that is never executed.
+week1-19/s105/ThrowTheBall.hpp:19:5: Rule11 Violated: Variable declared in loop.
+","week1-19/s105/AzimuthMonitoring.hpp:8:7: Rule9 Violated: Code that is never executed.
+week1-19/s105/AzimuthMonitoring.hpp:20:5: Rule11 Violated: Variable declared in loop.
+","week1-19/s105/Inchworm.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s105/Inchworm.hpp:15:5: Rule11 Violated: Variable declared in loop.
+","week1-19/s105/StreetParking.hpp:49:12: Rule1 Violated: No need to check if Boolean variable is equal to true or false.
+week1-19/s105/StreetParking.hpp:25:9: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s105/StreetParking.hpp:35:9: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s105/StreetParking.hpp:42:9: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s105/StreetParking.hpp:7:7: Rule9 Violated: Code that is never executed.
+week1-19/s105/StreetParking.hpp:17:5: Rule11 Violated: Variable declared in loop.
+",,,,,,,,
+s102,"week1-19/s102/CircularLine.hpp:16:7: Rule9 Violated: Code that is never executed.
+week1-19/s102/CircularLine.hpp:25:9: Rule11 Violated: Variable declared in loop.
+week1-19/s102/CircularLine.hpp:28:9: Rule11 Violated: Variable declared in loop.
+week1-19/s102/CircularLine.hpp:67:9: Rule11 Violated: Variable declared in loop.
+","week1-19/s102/ThrowTheBall.hpp:15:7: Rule9 Violated: Code that is never executed.
+","week1-19/s102/AzimuthMonitoring.hpp:15:7: Rule9 Violated: Code that is never executed.
+week1-19/s102/AzimuthMonitoring.hpp:21:9: Rule11 Violated: Variable declared in loop.
+","week1-19/s102/Inchworm.hpp:15:7: Rule9 Violated: Code that is never executed.
+","week1-19/s102/StreetParking.hpp:15:7: Rule9 Violated: Code that is never executed.
+","week1-19/s102/EggCartons.hpp:15:7: Rule9 Violated: Code that is never executed.
+","week1-19/s102/PartySeats.hpp:73:18: Rule5 Violated: Checking an expression that has a known True/False value.
+week1-19/s102/PartySeats.hpp:14:7: Rule9 Violated: Code that is never executed.
+week1-19/s102/PartySeats.hpp:25:9: Rule11 Violated: Variable declared in loop.
+week1-19/s102/PartySeats.hpp:55:9: Rule11 Violated: Variable declared in loop.
+","week1-19/s102/DownloadingFiles.hpp:28:7: Rule9 Violated: Code that is never executed.
+week1-19/s102/DownloadingFiles.hpp:36:9: Rule11 Violated: Variable declared in loop.
+week1-19/s102/DownloadingFiles.hpp:61:9: Rule11 Violated: Variable declared in loop.
+",,,,,
+s134,,"week1-19/s134/ThrowTheBall.hpp:4:7: Rule9 Violated: Code that is never executed.
+","week1-19/s134/AzimuthMonitoring.hpp:8:7: Rule9 Violated: Code that is never executed.
+week1-19/s134/AzimuthMonitoring.hpp:12:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s134/Inchworm.hpp:4:7: Rule9 Violated: Code that is never executed.
+","week1-19/s134/StreetParking.hpp:5:7: Rule9 Violated: Code that is never executed.
+","week1-19/s134/EggCartons.hpp:7:7: Rule9 Violated: Code that is never executed.
+",,,,,,,
+s133,,"week1-19/s133/ThrowTheBall.hpp:1:7: Rule9 Violated: Code that is never executed.
+week1-19/s133/ThrowTheBall.hpp:11:4: Rule11 Violated: Variable declared in loop.
+",,"week1-19/s133/Inchworm.hpp:1:7: Rule9 Violated: Code that is never executed.
+week1-19/s133/Inchworm.hpp:8:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s133/StreetParking.hpp:21:4: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s133/StreetParking.hpp:24:4: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s133/StreetParking.hpp:24:4: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s133/StreetParking.hpp:27:4: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s133/StreetParking.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s133/StreetParking.hpp:15:4: Rule11 Violated: Variable declared in loop.
+","week1-19/s133/EggCartons.hpp:1:7: Rule9 Violated: Code that is never executed.
+","week1-19/s133/PartySeats.hpp:32:9: Rule1 Violated: No need to check if Boolean variable is equal to true or false.
+week1-19/s133/PartySeats.hpp:53:89: Rule8 Violated: The block associated with the IF (or ELSE) has no statements (or self-assignment).
+week1-19/s133/PartySeats.hpp:7:7: Rule9 Violated: Code that is never executed.
+week1-19/s133/PartySeats.hpp:22:3: Rule11 Violated: Variable declared in loop.
+week1-19/s133/PartySeats.hpp:28:4: Rule11 Violated: Variable declared in loop.
+week1-19/s133/PartySeats.hpp:60:4: Rule11 Violated: Variable declared in loop.
+week1-19/s133/PartySeats.hpp:65:4: Rule11 Violated: Variable declared in loop.
+week1-19/s133/PartySeats.hpp:69:4: Rule11 Violated: Variable declared in loop.
+","week1-19/s133/DownloadingFiles.hpp:25:9: Rule1 Violated: No need to check if Boolean variable is equal to true or false.
+week1-19/s133/DownloadingFiles.hpp:7:7: Rule9 Violated: Code that is never executed.
+week1-19/s133/DownloadingFiles.hpp:14:3: Rule11 Violated: Variable declared in loop.
+week1-19/s133/DownloadingFiles.hpp:21:4: Rule11 Violated: Variable declared in loop.
+week1-19/s133/DownloadingFiles.hpp:40:3: Rule11 Violated: Variable declared in loop.
+",,,,,
+s141,,"week1-19/s141/ThrowTheBall.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s141/ThrowTheBall.hpp:12:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s141/AzimuthMonitoring.hpp:7:7: Rule9 Violated: Code that is never executed.
+week1-19/s141/AzimuthMonitoring.hpp:14:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s141/Inchworm.hpp:4:7: Rule9 Violated: Code that is never executed.
+week1-19/s141/Inchworm.hpp:8:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s141/StreetParking.hpp:12:5: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s141/StreetParking.hpp:16:5: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s141/StreetParking.hpp:16:5: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s141/StreetParking.hpp:20:5: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s141/StreetParking.hpp:20:5: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s141/StreetParking.hpp:24:5: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s141/StreetParking.hpp:24:5: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s141/StreetParking.hpp:28:5: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s141/StreetParking.hpp:28:5: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s141/StreetParking.hpp:32:5: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s141/StreetParking.hpp:4:7: Rule9 Violated: Code that is never executed.
+week1-19/s141/StreetParking.hpp:10:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s141/EggCartons.hpp:19:3: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s141/EggCartons.hpp:4:7: Rule9 Violated: Code that is never executed.
+",,,,,,,
+s115,,"week1-19/s115/ThrowTheBall.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s115/ThrowTheBall.hpp:12:11: Rule11 Violated: Variable declared in loop.
+","week1-19/s115/AzimuthMonitoring.hpp:8:7: Rule9 Violated: Code that is never executed.
+week1-19/s115/AzimuthMonitoring.hpp:13:3: Rule11 Violated: Variable declared in loop.
+week1-19/s115/AzimuthMonitoring.hpp:28:18: Rule11 Violated: Variable declared in loop.
+","week1-19/s115/Inchworm.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s115/Inchworm.hpp:15:4: Rule11 Violated: Variable declared in loop.
+","week1-19/s115/StreetParking.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s115/StreetParking.hpp:9:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s115/EggCartons.hpp:3:7: Rule9 Violated: Code that is never executed.
+",,,,,,,
+s112,"week1-19/s112/CircularLine.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s112/CircularLine.hpp:17:3: Rule11 Violated: Variable declared in loop.
+week1-19/s112/CircularLine.hpp:22:3: Rule11 Violated: Variable declared in loop.
+week1-19/s112/CircularLine.hpp:24:4: Rule11 Violated: Variable declared in loop.
+week1-19/s112/CircularLine.hpp:36:6: Rule11 Violated: Variable declared in loop.
+week1-19/s112/CircularLine.hpp:54:6: Rule11 Violated: Variable declared in loop.
+week1-19/s112/CircularLine.hpp:22:3: Rule13 Violated: Nested For Loop With Indices Comparison.
+week1-19/s112/CircularLine.hpp:22:3: Rule13 Violated: Nested For Loop With Indices Comparison.
+","week1-19/s112/ThrowTheBall.hpp:4:7: Rule9 Violated: Code that is never executed.
+week1-19/s112/ThrowTheBall.hpp:16:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s112/AzimuthMonitoring.hpp:24:4: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s112/AzimuthMonitoring.hpp:43:4: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s112/AzimuthMonitoring.hpp:7:7: Rule9 Violated: Code that is never executed.
+week1-19/s112/AzimuthMonitoring.hpp:16:3: Rule11 Violated: Variable declared in loop.
+week1-19/s112/AzimuthMonitoring.hpp:34:6: Rule11 Violated: Variable declared in loop.
+week1-19/s112/AzimuthMonitoring.hpp:53:6: Rule11 Violated: Variable declared in loop.
+","week1-19/s112/Inchworm.hpp:4:7: Rule9 Violated: Code that is never executed.
+","week1-19/s112/StreetParking.hpp:19:5: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s112/StreetParking.hpp:26:5: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s112/StreetParking.hpp:34:5: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s112/StreetParking.hpp:41:5: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s112/StreetParking.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s112/StreetParking.hpp:13:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s112/EggCartons.hpp:15:3: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s112/EggCartons.hpp:19:3: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s112/EggCartons.hpp:19:3: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s112/EggCartons.hpp:23:3: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s112/EggCartons.hpp:5:7: Rule9 Violated: Code that is never executed.
+",,,,,,,
+s124,,"week1-19/s124/ThrowTheBall.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s124/ThrowTheBall.hpp:15:5: Rule11 Violated: Variable declared in loop.
+","week1-19/s124/AzimuthMonitoring.hpp:8:7: Rule9 Violated: Code that is never executed.
+week1-19/s124/AzimuthMonitoring.hpp:15:5: Rule11 Violated: Variable declared in loop.
+","week1-19/s124/Inchworm.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s124/Inchworm.hpp:13:4: Rule11 Violated: Variable declared in loop.
+",,"week1-19/s124/EggCartons.hpp:7:7: Rule9 Violated: Code that is never executed.
+week1-19/s124/EggCartons.hpp:15:4: Rule11 Violated: Variable declared in loop.
+","week1-19/s124/PartySeats.hpp:20:5: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s124/PartySeats.hpp:23:5: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s124/PartySeats.hpp:9:7: Rule9 Violated: Code that is never executed.
+week1-19/s124/PartySeats.hpp:30:5: Rule11 Violated: Variable declared in loop.
+",,,,,,
+s123,,"week1-19/s123/ThrowTheBall.hpp:5:7: Rule9 Violated: Code that is never executed.
+",,,"week1-19/s123/StreetParking.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s123/StreetParking.hpp:11:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s123/EggCartons.hpp:4:7: Rule9 Violated: Code that is never executed.
+week1-19/s123/EggCartons.hpp:17:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s123/PartySeats.hpp:7:7: Rule9 Violated: Code that is never executed.
+week1-19/s123/PartySeats.hpp:26:3: Rule11 Violated: Variable declared in loop.
+week1-19/s123/PartySeats.hpp:38:3: Rule11 Violated: Variable declared in loop.
+week1-19/s123/PartySeats.hpp:55:3: Rule11 Violated: Variable declared in loop.
+week1-19/s123/PartySeats.hpp:56:4: Rule11 Violated: Variable declared in loop.
+","week1-19/s123/DownloadingFiles.hpp:9:7: Rule9 Violated: Code that is never executed.
+week1-19/s123/DownloadingFiles.hpp:22:3: Rule11 Violated: Variable declared in loop.
+week1-19/s123/DownloadingFiles.hpp:28:3: Rule11 Violated: Variable declared in loop.
+",,,,,
+s140,,"week1-19/s140/ThrowTheBall.hpp:4:7: Rule9 Violated: Code that is never executed.
+week1-19/s140/ThrowTheBall.hpp:11:2: Rule11 Violated: Variable declared in loop.
+","week1-19/s140/AzimuthMonitoring.hpp:7:7: Rule9 Violated: Code that is never executed.
+week1-19/s140/AzimuthMonitoring.hpp:13:2: Rule11 Violated: Variable declared in loop.
+","week1-19/s140/Inchworm.hpp:3:7: Rule9 Violated: Code that is never executed.
+","week1-19/s140/StreetParking.hpp:13:4: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s140/StreetParking.hpp:16:4: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s140/StreetParking.hpp:16:4: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s140/StreetParking.hpp:19:4: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s140/StreetParking.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s140/StreetParking.hpp:11:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s140/EggCartons.hpp:4:7: Rule9 Violated: Code that is never executed.
+",,,,,,,
+s122,,"week1-19/s122/ThrowTheBall.hpp:10:3: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s122/ThrowTheBall.hpp:13:3: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s122/ThrowTheBall.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s122/ThrowTheBall.hpp:22:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s122/AzimuthMonitoring.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s122/AzimuthMonitoring.hpp:13:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s122/Inchworm.hpp:9:2: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s122/Inchworm.hpp:12:2: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s122/Inchworm.hpp:12:2: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s122/Inchworm.hpp:15:2: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s122/Inchworm.hpp:3:7: Rule9 Violated: Code that is never executed.
+","week1-19/s122/StreetParking.hpp:16:6: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s122/StreetParking.hpp:17:7: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s122/StreetParking.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s122/StreetParking.hpp:11:4: Rule11 Violated: Variable declared in loop.
+","week1-19/s122/EggCartons.hpp:8:3: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s122/EggCartons.hpp:12:3: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s122/EggCartons.hpp:12:3: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s122/EggCartons.hpp:15:3: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s122/EggCartons.hpp:4:7: Rule9 Violated: Code that is never executed.
+","week1-19/s122/PartySeats.hpp:15:3: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s122/PartySeats.hpp:18:3: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s122/PartySeats.hpp:10:7: Rule9 Violated: Code that is never executed.
+week1-19/s122/PartySeats.hpp:64:3: Rule11 Violated: Variable declared in loop.
+week1-19/s122/PartySeats.hpp:68:4: Rule11 Violated: Variable declared in loop.
+week1-19/s122/PartySeats.hpp:88:3: Rule11 Violated: Variable declared in loop.
+week1-19/s122/PartySeats.hpp:92:4: Rule11 Violated: Variable declared in loop.
+week1-19/s122/PartySeats.hpp:112:3: Rule11 Violated: Variable declared in loop.
+week1-19/s122/PartySeats.hpp:113:4: Rule11 Violated: Variable declared in loop.
+",,,,,,
+s125,,"week1-19/s125/ThrowTheBall.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s125/ThrowTheBall.hpp:13:5: Rule11 Violated: Variable declared in loop.
+",,"week1-19/s125/Inchworm.hpp:8:7: Rule9 Violated: Code that is never executed.
+",,,,,,,,,
+s113,,"week1-19/s113/ThrowTheBall.hpp:3:7: Rule9 Violated: Code that is never executed.
+",,"week1-19/s113/Inchworm.hpp:1:7: Rule9 Violated: Code that is never executed.
+",,"week1-19/s113/EggCartons.hpp:7:3: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s113/EggCartons.hpp:9:3: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s113/EggCartons.hpp:3:7: Rule9 Violated: Code that is never executed.
+","week1-19/s113/PartySeats.hpp:26:3: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s113/PartySeats.hpp:28:3: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s113/PartySeats.hpp:7:7: Rule9 Violated: Code that is never executed.
+week1-19/s113/PartySeats.hpp:33:3: Rule11 Violated: Variable declared in loop.
+week1-19/s113/PartySeats.hpp:50:3: Rule11 Violated: Variable declared in loop.
+week1-19/s113/PartySeats.hpp:55:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s113/DownloadingFiles.hpp:9:7: Rule9 Violated: Code that is never executed.
+week1-19/s113/DownloadingFiles.hpp:15:3: Rule11 Violated: Variable declared in loop.
+",,,,,
+s114,"week1-19/s114/CircularLine.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s114/CircularLine.hpp:10:5: Rule11 Violated: Variable declared in loop.
+week1-19/s114/CircularLine.hpp:11:7: Rule11 Violated: Variable declared in loop.
+","week1-19/s114/ThrowTheBall.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s114/ThrowTheBall.hpp:9:5: Rule11 Violated: Variable declared in loop.
+","week1-19/s114/AzimuthMonitoring.hpp:23:9: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s114/AzimuthMonitoring.hpp:32:9: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s114/AzimuthMonitoring.hpp:7:7: Rule9 Violated: Code that is never executed.
+week1-19/s114/AzimuthMonitoring.hpp:12:5: Rule11 Violated: Variable declared in loop.
+","week1-19/s114/Inchworm.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s114/Inchworm.hpp:9:5: Rule11 Violated: Variable declared in loop.
+","week1-19/s114/StreetParking.hpp:15:7: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s114/StreetParking.hpp:19:7: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s114/StreetParking.hpp:19:7: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s114/StreetParking.hpp:23:7: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s114/StreetParking.hpp:23:7: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s114/StreetParking.hpp:27:7: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s114/StreetParking.hpp:27:7: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s114/StreetParking.hpp:31:7: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s114/StreetParking.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s114/StreetParking.hpp:11:5: Rule11 Violated: Variable declared in loop.
+",,,,,,,,
+s092,"week1-19/s092/CircularLine.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s092/CircularLine.hpp:14:3: Rule11 Violated: Variable declared in loop.
+week1-19/s092/CircularLine.hpp:15:4: Rule11 Violated: Variable declared in loop.
+week1-19/s092/CircularLine.hpp:18:5: Rule11 Violated: Variable declared in loop.
+","week1-19/s092/ThrowTheBall.hpp:5:7: Rule9 Violated: Code that is never executed.
+","week1-19/s092/AzimuthMonitoring.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s092/AzimuthMonitoring.hpp:12:3: Rule11 Violated: Variable declared in loop.
+",,"week1-19/s092/StreetParking.hpp:10:4: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s092/StreetParking.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s092/StreetParking.hpp:9:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s092/EggCartons.hpp:5:7: Rule9 Violated: Code that is never executed.
+","week1-19/s092/PartySeats.hpp:7:7: Rule9 Violated: Code that is never executed.
+week1-19/s092/PartySeats.hpp:14:3: Rule11 Violated: Variable declared in loop.
+week1-19/s092/PartySeats.hpp:16:4: Rule11 Violated: Variable declared in loop.
+week1-19/s092/PartySeats.hpp:26:3: Rule11 Violated: Variable declared in loop.
+week1-19/s092/PartySeats.hpp:33:3: Rule11 Violated: Variable declared in loop.
+week1-19/s092/PartySeats.hpp:48:3: Rule11 Violated: Variable declared in loop.
+week1-19/s092/PartySeats.hpp:55:3: Rule11 Violated: Variable declared in loop.
+week1-19/s092/PartySeats.hpp:62:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s092/DownloadingFiles.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s092/DownloadingFiles.hpp:27:3: Rule11 Violated: Variable declared in loop.
+week1-19/s092/DownloadingFiles.hpp:34:3: Rule11 Violated: Variable declared in loop.
+week1-19/s092/DownloadingFiles.hpp:36:4: Rule11 Violated: Variable declared in loop.
+week1-19/s092/DownloadingFiles.hpp:56:3: Rule11 Violated: Variable declared in loop.
+week1-19/s092/DownloadingFiles.hpp:64:3: Rule11 Violated: Variable declared in loop.
+week1-19/s092/DownloadingFiles.hpp:74:3: Rule11 Violated: Variable declared in loop.
+",,"week1-19/s092/inchworm.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s092/inchworm.hpp:10:3: Rule11 Violated: Variable declared in loop.
+",,,
+s059,"week1-19/s059/CircularLine.hpp:11:7: Rule9 Violated: Code that is never executed.
+week1-19/s059/CircularLine.hpp:9:5: Rule9 Violated: Code that is never executed.
+week1-19/s059/CircularLine.hpp:30:9: Rule11 Violated: Variable declared in loop.
+week1-19/s059/CircularLine.hpp:32:13: Rule11 Violated: Variable declared in loop.
+week1-19/s059/CircularLine.hpp:69:13: Rule11 Violated: Variable declared in loop.
+week1-19/s059/CircularLine.hpp:82:13: Rule11 Violated: Variable declared in loop.
+week1-19/s059/CircularLine.hpp:91:13: Rule11 Violated: Variable declared in loop.
+week1-19/s059/CircularLine.hpp:114:13: Rule11 Violated: Variable declared in loop.
+week1-19/s059/CircularLine.hpp:126:13: Rule11 Violated: Variable declared in loop.
+week1-19/s059/CircularLine.hpp:135:13: Rule11 Violated: Variable declared in loop.
+week1-19/s059/CircularLine.hpp:30:9: Rule13 Violated: Nested For Loop With Indices Comparison.
+","week1-19/s059/ThrowTheBall.hpp:67:9: Rule6 Violated: Series of IF statements with opposite conditions instead of using ELSE.
+week1-19/s059/ThrowTheBall.hpp:12:7: Rule9 Violated: Code that is never executed.
+week1-19/s059/ThrowTheBall.hpp:21:9: Rule11 Violated: Variable declared in loop.
+week1-19/s059/ThrowTheBall.hpp:88:9: Rule11 Violated: Variable declared in loop.
+","week1-19/s059/AzimuthMonitoring.hpp:145:13: Rule6 Violated: Series of IF statements with opposite conditions instead of using ELSE.
+week1-19/s059/AzimuthMonitoring.hpp:10:7: Rule9 Violated: Code that is never executed.
+","week1-19/s059/Inchworm.hpp:10:7: Rule9 Violated: Code that is never executed.
+","week1-19/s059/StreetParking.hpp:35:13: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s059/StreetParking.hpp:41:13: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s059/StreetParking.hpp:41:13: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s059/StreetParking.hpp:47:13: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s059/StreetParking.hpp:47:13: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s059/StreetParking.hpp:54:13: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s059/StreetParking.hpp:54:13: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s059/StreetParking.hpp:60:13: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s059/StreetParking.hpp:60:13: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s059/StreetParking.hpp:65:13: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s059/StreetParking.hpp:65:13: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s059/StreetParking.hpp:71:13: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s059/StreetParking.hpp:16:7: Rule9 Violated: Code that is never executed.
+week1-19/s059/StreetParking.hpp:8:5: Rule9 Violated: Code that is never executed.
+week1-19/s059/StreetParking.hpp:31:9: Rule11 Violated: Variable declared in loop.
+",,,,,,,,
+s095,,"week1-19/s095/ThrowTheBall.hpp:4:7: Rule9 Violated: Code that is never executed.
+week1-19/s095/ThrowTheBall.hpp:11:5: Rule11 Violated: Variable declared in loop.
+",,"week1-19/s095/Inchworm.hpp:5:7: Rule9 Violated: Code that is never executed.
+","week1-19/s095/StreetParking.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s095/StreetParking.hpp:12:5: Rule11 Violated: Variable declared in loop.
+week1-19/s095/StreetParking.hpp:16:5: Rule11 Violated: Variable declared in loop.
+week1-19/s095/StreetParking.hpp:36:5: Rule11 Violated: Variable declared in loop.
+","week1-19/s095/EggCartons.hpp:23:14: Rule5 Violated: Checking an expression that has a known True/False value.
+week1-19/s095/EggCartons.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s095/EggCartons.hpp:15:7: Rule11 Violated: Variable declared in loop.
+",,"week1-19/s095/DownloadingFiles.hpp:6:7: Rule9 Violated: Code that is never executed.
+",,,,,
+s061,,,,"week1-19/s061/Inchworm.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s061/Inchworm.hpp:19:13: Rule11 Violated: Variable declared in loop.
+","week1-19/s061/StreetParking.hpp:48:8: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s061/StreetParking.hpp:7:7: Rule9 Violated: Code that is never executed.
+","week1-19/s061/EggCartons.hpp:7:7: Rule9 Violated: Code that is never executed.
+","week1-19/s061/PartySeats.hpp:12:7: Rule9 Violated: Code that is never executed.
+week1-19/s061/PartySeats.hpp:23:13: Rule11 Violated: Variable declared in loop.
+week1-19/s061/PartySeats.hpp:54:13: Rule11 Violated: Variable declared in loop.
+week1-19/s061/PartySeats.hpp:63:13: Rule11 Violated: Variable declared in loop.
+","week1-19/s061/DownloadingFiles.hpp:12:7: Rule9 Violated: Code that is never executed.
+week1-19/s061/DownloadingFiles.hpp:23:13: Rule11 Violated: Variable declared in loop.
+",,,,,
+s057,"week1-19/s057/CircularLine.hpp:9:7: Rule9 Violated: Code that is never executed.
+week1-19/s057/CircularLine.hpp:18:5: Rule11 Violated: Variable declared in loop.
+week1-19/s057/CircularLine.hpp:20:3: Rule11 Violated: Variable declared in loop.
+week1-19/s057/CircularLine.hpp:30:7: Rule11 Violated: Variable declared in loop.
+week1-19/s057/CircularLine.hpp:35:7: Rule11 Violated: Variable declared in loop.
+week1-19/s057/CircularLine.hpp:18:5: Rule13 Violated: Nested For Loop With Indices Comparison.
+",,"week1-19/s057/AzimuthMonitoring.hpp:7:7: Rule9 Violated: Code that is never executed.
+week1-19/s057/AzimuthMonitoring.hpp:38:9: Rule11 Violated: Variable declared in loop.
+","week1-19/s057/Inchworm.hpp:4:7: Rule9 Violated: Code that is never executed.
+week1-19/s057/Inchworm.hpp:12:2: Rule11 Violated: Variable declared in loop.
+","week1-19/s057/StreetParking.hpp:23:3: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s057/StreetParking.hpp:13:7: Rule9 Violated: Code that is never executed.
+week1-19/s057/StreetParking.hpp:21:2: Rule11 Violated: Variable declared in loop.
+","week1-19/s057/EggCartons.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s057/EggCartons.hpp:14:5: Rule11 Violated: Variable declared in loop.
+week1-19/s057/EggCartons.hpp:16:5: Rule11 Violated: Variable declared in loop.
+",,,,,,,
+s068,,,,"week1-19/s068/Inchworm.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s068/Inchworm.hpp:13:5: Rule11 Violated: Variable declared in loop.
+","week1-19/s068/StreetParking.hpp:14:13: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s068/StreetParking.hpp:19:13: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s068/StreetParking.hpp:24:13: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s068/StreetParking.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s068/StreetParking.hpp:11:5: Rule11 Violated: Variable declared in loop.
+","week1-19/s068/EggCartons.hpp:4:7: Rule9 Violated: Code that is never executed.
+week1-19/s068/EggCartons.hpp:20:6: Rule11 Violated: Variable declared in loop.
+week1-19/s068/EggCartons.hpp:21:7: Rule11 Violated: Variable declared in loop.
+",,,,,,,
+s050,"week1-19/s050/CircularLine.hpp:7:7: Rule9 Violated: Code that is never executed.
+week1-19/s050/CircularLine.hpp:17:3: Rule11 Violated: Variable declared in loop.
+week1-19/s050/CircularLine.hpp:20:4: Rule11 Violated: Variable declared in loop.
+",,,,"week1-19/s050/StreetParking.hpp:46:9: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s050/StreetParking.hpp:7:7: Rule9 Violated: Code that is never executed.
+","week1-19/s050/EggCartons.hpp:4:7: Rule9 Violated: Code that is never executed.
+","week1-19/s050/PartySeats.hpp:56:10: Rule1 Violated: No need to check if Boolean variable is equal to true or false.
+week1-19/s050/PartySeats.hpp:82:10: Rule1 Violated: No need to check if Boolean variable is equal to true or false.
+week1-19/s050/PartySeats.hpp:63:9: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s050/PartySeats.hpp:9:7: Rule9 Violated: Code that is never executed.
+week1-19/s050/PartySeats.hpp:27:3: Rule11 Violated: Variable declared in loop.
+week1-19/s050/PartySeats.hpp:46:6: Rule11 Violated: Variable declared in loop.
+week1-19/s050/PartySeats.hpp:72:6: Rule11 Violated: Variable declared in loop.
+","week1-19/s050/DownloadingFiles.hpp:25:6: Rule9 Violated: Code that is never executed.
+week1-19/s050/DownloadingFiles.hpp:28:6: Rule9 Violated: Code that is never executed.
+week1-19/s050/DownloadingFiles.hpp:31:6: Rule9 Violated: Code that is never executed.
+week1-19/s050/DownloadingFiles.hpp:34:6: Rule9 Violated: Code that is never executed.
+week1-19/s050/DownloadingFiles.hpp:37:6: Rule9 Violated: Code that is never executed.
+week1-19/s050/DownloadingFiles.hpp:40:6: Rule9 Violated: Code that is never executed.
+week1-19/s050/DownloadingFiles.hpp:43:6: Rule9 Violated: Code that is never executed.
+week1-19/s050/DownloadingFiles.hpp:46:6: Rule9 Violated: Code that is never executed.
+week1-19/s050/DownloadingFiles.hpp:49:6: Rule9 Violated: Code that is never executed.
+week1-19/s050/DownloadingFiles.hpp:11:7: Rule9 Violated: Code that is never executed.
+week1-19/s050/DownloadingFiles.hpp:18:3: Rule11 Violated: Variable declared in loop.
+week1-19/s050/DownloadingFiles.hpp:55:3: Rule11 Violated: Variable declared in loop.
+week1-19/s050/DownloadingFiles.hpp:72:3: Rule11 Violated: Variable declared in loop.
+week1-19/s050/DownloadingFiles.hpp:100:4: Rule11 Violated: Variable declared in loop.
+",,,,,
+s004,,"week1-19/s004/ThrowTheBall.hpp:5:7: Rule9 Violated: Code that is never executed.
+","week1-19/s004/AzimuthMonitoring.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s004/AzimuthMonitoring.hpp:21:5: Rule11 Violated: Variable declared in loop.
+week1-19/s004/AzimuthMonitoring.hpp:39:9: Rule11 Violated: Variable declared in loop.
+week1-19/s004/AzimuthMonitoring.hpp:50:9: Rule11 Violated: Variable declared in loop.
+","week1-19/s004/Inchworm.hpp:4:7: Rule9 Violated: Code that is never executed.
+week1-19/s004/Inchworm.hpp:16:5: Rule11 Violated: Variable declared in loop.
+","week1-19/s004/StreetParking.hpp:7:7: Rule9 Violated: Code that is never executed.
+","week1-19/s004/EggCartons.hpp:5:7: Rule9 Violated: Code that is never executed.
+","week1-19/s004/PartySeats.hpp:7:7: Rule9 Violated: Code that is never executed.
+week1-19/s004/PartySeats.hpp:21:5: Rule11 Violated: Variable declared in loop.
+week1-19/s004/PartySeats.hpp:24:7: Rule11 Violated: Variable declared in loop.
+week1-19/s004/PartySeats.hpp:39:5: Rule11 Violated: Variable declared in loop.
+",,,,,,
+s003,"week1-19/s003/CircularLine.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s003/CircularLine.hpp:16:7: Rule11 Violated: Variable declared in loop.
+week1-19/s003/CircularLine.hpp:18:9: Rule11 Violated: Variable declared in loop.
+week1-19/s003/CircularLine.hpp:29:13: Rule11 Violated: Variable declared in loop.
+week1-19/s003/CircularLine.hpp:35:13: Rule11 Violated: Variable declared in loop.
+week1-19/s003/CircularLine.hpp:16:7: Rule13 Violated: Nested For Loop With Indices Comparison.
+",,"week1-19/s003/AzimuthMonitoring.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s003/AzimuthMonitoring.hpp:34:9: Rule11 Violated: Variable declared in loop.
+","week1-19/s003/Inchworm.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s003/Inchworm.hpp:12:4: Rule11 Violated: Variable declared in loop.
+","week1-19/s003/StreetParking.hpp:22:7: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s003/StreetParking.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s003/StreetParking.hpp:20:5: Rule11 Violated: Variable declared in loop.
+","week1-19/s003/EggCartons.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s003/EggCartons.hpp:37:8: Rule11 Violated: Variable declared in loop.
+week1-19/s003/EggCartons.hpp:40:9: Rule11 Violated: Variable declared in loop.
+","week1-19/s003/PartySeats.hpp:81:15: Rule1 Violated: No need to check if Boolean variable is equal to true or false.
+week1-19/s003/PartySeats.hpp:94:16: Rule1 Violated: No need to check if Boolean variable is equal to true or false.
+week1-19/s003/PartySeats.hpp:21:9: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s003/PartySeats.hpp:8:7: Rule9 Violated: Code that is never executed.
+week1-19/s003/PartySeats.hpp:53:5: Rule11 Violated: Variable declared in loop.
+",,,,,,
+s035,,"week1-19/s035/ThrowTheBall.hpp:4:7: Rule9 Violated: Code that is never executed.
+week1-19/s035/ThrowTheBall.hpp:10:9: Rule11 Violated: Variable declared in loop.
+","week1-19/s035/AzimuthMonitoring.hpp:7:7: Rule9 Violated: Code that is never executed.
+week1-19/s035/AzimuthMonitoring.hpp:13:9: Rule11 Violated: Variable declared in loop.
+week1-19/s035/AzimuthMonitoring.hpp:20:9: Rule11 Violated: Variable declared in loop.
+","week1-19/s035/Inchworm.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s035/Inchworm.hpp:11:5: Rule11 Violated: Variable declared in loop.
+","week1-19/s035/StreetParking.hpp:21:17: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s035/StreetParking.hpp:24:17: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s035/StreetParking.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s035/StreetParking.hpp:12:9: Rule11 Violated: Variable declared in loop.
+","week1-19/s035/EggCartons.hpp:24:13: Rule5 Violated: Checking an expression that has a known True/False value.
+week1-19/s035/EggCartons.hpp:40:14: Rule5 Violated: Checking an expression that has a known True/False value.
+week1-19/s035/EggCartons.hpp:4:7: Rule9 Violated: Code that is never executed.
+",,,,,,,
+s032,"week1-19/s032/CircularLine.hpp:8:7: Rule9 Violated: Code that is never executed.
+week1-19/s032/CircularLine.hpp:12:9: Rule11 Violated: Variable declared in loop.
+week1-19/s032/CircularLine.hpp:13:13: Rule11 Violated: Variable declared in loop.
+week1-19/s032/CircularLine.hpp:17:17: Rule11 Violated: Variable declared in loop.
+week1-19/s032/CircularLine.hpp:24:17: Rule11 Violated: Variable declared in loop.
+week1-19/s032/CircularLine.hpp:12:9: Rule13 Violated: Nested For Loop With Indices Comparison.
+","week1-19/s032/ThrowTheBall.hpp:7:7: Rule9 Violated: Code that is never executed.
+","week1-19/s032/AzimuthMonitoring.hpp:8:7: Rule9 Violated: Code that is never executed.
+week1-19/s032/AzimuthMonitoring.hpp:12:9: Rule11 Violated: Variable declared in loop.
+","week1-19/s032/Inchworm.hpp:4:7: Rule9 Violated: Code that is never executed.
+","week1-19/s032/StreetParking.hpp:18:25: Rule9 Violated: Code that is never executed.
+week1-19/s032/StreetParking.hpp:22:25: Rule9 Violated: Code that is never executed.
+week1-19/s032/StreetParking.hpp:9:7: Rule9 Violated: Code that is never executed.
+week1-19/s032/StreetParking.hpp:14:9: Rule11 Violated: Variable declared in loop.
+week1-19/s032/StreetParking.hpp:29:9: Rule11 Violated: Variable declared in loop.
+","week1-19/s032/EggCartons.hpp:4:7: Rule9 Violated: Code that is never executed.
+",,,,,,,
+s051,,"week1-19/s051/ThrowTheBall.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s051/ThrowTheBall.hpp:12:9: Rule11 Violated: Variable declared in loop.
+",,"week1-19/s051/Inchworm.hpp:4:7: Rule9 Violated: Code that is never executed.
+","week1-19/s051/StreetParking.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s051/StreetParking.hpp:13:13: Rule11 Violated: Variable declared in loop.
+week1-19/s051/StreetParking.hpp:21:13: Rule11 Violated: Variable declared in loop.
+","week1-19/s051/EggCartons.hpp:4:7: Rule9 Violated: Code that is never executed.
+","week1-19/s051/PartySeats.hpp:6:7: Rule9 Violated: Code that is never executed.
+",,,,,,
+s056,,"week1-19/s056/ThrowTheBall.hpp:4:7: Rule9 Violated: Code that is never executed.
+",,"week1-19/s056/Inchworm.hpp:4:7: Rule9 Violated: Code that is never executed.
+","week1-19/s056/StreetParking.hpp:12:7: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s056/StreetParking.hpp:14:13: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s056/StreetParking.hpp:14:13: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s056/StreetParking.hpp:16:13: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s056/StreetParking.hpp:16:13: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s056/StreetParking.hpp:18:7: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s056/StreetParking.hpp:18:7: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s056/StreetParking.hpp:20:13: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s056/StreetParking.hpp:4:7: Rule9 Violated: Code that is never executed.
+","week1-19/s056/EggCartons.hpp:3:7: Rule9 Violated: Code that is never executed.
+",,"week1-19/s056/DownloadingFiles.hpp:7:7: Rule9 Violated: Code that is never executed.
+week1-19/s056/DownloadingFiles.hpp:17:9: Rule11 Violated: Variable declared in loop.
+",,,,,
+s069,,,,,,,"week1-19/s069/PartySeats.hpp:21:5: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s069/PartySeats.hpp:37:3: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s069/PartySeats.hpp:38:3: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s069/PartySeats.hpp:10:7: Rule9 Violated: Code that is never executed.
+week1-19/s069/PartySeats.hpp:17:3: Rule11 Violated: Variable declared in loop.
+week1-19/s069/PartySeats.hpp:19:4: Rule11 Violated: Variable declared in loop.
+week1-19/s069/PartySeats.hpp:41:3: Rule11 Violated: Variable declared in loop.
+",,,,,,
+s060,,"week1-19/s060/ThrowTheBall.hpp:4:7: Rule9 Violated: Code that is never executed.
+week1-19/s060/ThrowTheBall.hpp:9:13: Rule11 Violated: Variable declared in loop.
+","week1-19/s060/AzimuthMonitoring.hpp:8:7: Rule9 Violated: Code that is never executed.
+week1-19/s060/AzimuthMonitoring.hpp:12:13: Rule11 Violated: Variable declared in loop.
+","week1-19/s060/Inchworm.hpp:4:7: Rule9 Violated: Code that is never executed.
+",,"week1-19/s060/EggCartons.hpp:4:7: Rule9 Violated: Code that is never executed.
+week1-19/s060/EggCartons.hpp:12:13: Rule11 Violated: Variable declared in loop.
+week1-19/s060/EggCartons.hpp:20:17: Rule11 Violated: Variable declared in loop.
+",,"week1-19/s060/DownloadingFiles.hpp:10:7: Rule9 Violated: Code that is never executed.
+week1-19/s060/DownloadingFiles.hpp:16:13: Rule11 Violated: Variable declared in loop.
+week1-19/s060/DownloadingFiles.hpp:29:17: Rule11 Violated: Variable declared in loop.
+week1-19/s060/DownloadingFiles.hpp:37:17: Rule11 Violated: Variable declared in loop.
+week1-19/s060/DownloadingFiles.hpp:46:17: Rule11 Violated: Variable declared in loop.
+",,,,,
+s094,,"week1-19/s094/ThrowTheBall.hpp:4:7: Rule9 Violated: Code that is never executed.
+","week1-19/s094/AzimuthMonitoring.hpp:8:9: Rule9 Violated: Code that is never executed.
+week1-19/s094/AzimuthMonitoring.hpp:14:7: Rule11 Violated: Variable declared in loop.
+","week1-19/s094/Inchworm.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s094/Inchworm.hpp:11:5: Rule11 Violated: Variable declared in loop.
+","week1-19/s094/StreetParking.hpp:21:13: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s094/StreetParking.hpp:22:13: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s094/StreetParking.hpp:22:13: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s094/StreetParking.hpp:23:13: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s094/StreetParking.hpp:23:13: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s094/StreetParking.hpp:24:13: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s094/StreetParking.hpp:24:13: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s094/StreetParking.hpp:25:13: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s094/StreetParking.hpp:25:13: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s094/StreetParking.hpp:26:13: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s094/StreetParking.hpp:26:13: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s094/StreetParking.hpp:27:13: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s094/StreetParking.hpp:4:7: Rule9 Violated: Code that is never executed.
+week1-19/s094/StreetParking.hpp:10:9: Rule11 Violated: Variable declared in loop.
+","week1-19/s094/EggCartons.hpp:4:7: Rule9 Violated: Code that is never executed.
+week1-19/s094/EggCartons.hpp:9:3: Rule11 Violated: Variable declared in loop.
+week1-19/s094/EggCartons.hpp:11:4: Rule11 Violated: Variable declared in loop.
+",,,,,,,
+s093,,"week1-19/s093/ThrowTheBall.hpp:42:7: and week1-19/s093/ThrowTheBall.hpp:46:7 Rule7 Violated: Repeated statement(s) in branches of conditional statement (could be taken out).
+week1-19/s093/ThrowTheBall.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s093/ThrowTheBall.hpp:12:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s093/AzimuthMonitoring.hpp:43:9: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s093/AzimuthMonitoring.hpp:7:7: Rule9 Violated: Code that is never executed.
+week1-19/s093/AzimuthMonitoring.hpp:12:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s093/Inchworm.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s093/Inchworm.hpp:11:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s093/StreetParking.hpp:26:9: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s093/StreetParking.hpp:37:4: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s093/StreetParking.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s093/StreetParking.hpp:11:3: Rule11 Violated: Variable declared in loop.
+week1-19/s093/StreetParking.hpp:19:3: Rule11 Violated: Variable declared in loop.
+week1-19/s093/StreetParking.hpp:55:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s093/EggCartons.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s093/EggCartons.hpp:26:5: Rule11 Violated: Variable declared in loop.
+week1-19/s093/EggCartons.hpp:27:6: Rule11 Violated: Variable declared in loop.
+",,,,,,,
+s067,,"week1-19/s067/ThrowTheBall.hpp:4:7: Rule9 Violated: Code that is never executed.
+",,"week1-19/s067/Inchworm.hpp:4:7: Rule9 Violated: Code that is never executed.
+","week1-19/s067/StreetParking.hpp:8:7: Rule9 Violated: Code that is never executed.
+week1-19/s067/StreetParking.hpp:15:3: Rule11 Violated: Variable declared in loop.
+week1-19/s067/StreetParking.hpp:38:3: Rule11 Violated: Variable declared in loop.
+",,,,,,,,
+s058,,"week1-19/s058/ThrowTheBall.hpp:30:5: and week1-19/s058/ThrowTheBall.hpp:39:5 Rule7 Violated: Repeated statement(s) in branches of conditional statement (could be taken out).
+week1-19/s058/ThrowTheBall.hpp:4:8: Rule9 Violated: Code that is never executed.
+week1-19/s058/ThrowTheBall.hpp:9:3: Rule11 Violated: Variable declared in loop.
+",,"week1-19/s058/Inchworm.hpp:14:4: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s058/Inchworm.hpp:19:4: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s058/Inchworm.hpp:5:7: Rule9 Violated: Code that is never executed.
+","week1-19/s058/StreetParking.hpp:14:4: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s058/StreetParking.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s058/StreetParking.hpp:12:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s058/EggCartons.hpp:5:7: Rule9 Violated: Code that is never executed.
+","week1-19/s058/PartySeats.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s058/PartySeats.hpp:31:3: Rule11 Violated: Variable declared in loop.
+week1-19/s058/PartySeats.hpp:39:6: Rule11 Violated: Variable declared in loop.
+week1-19/s058/PartySeats.hpp:54:6: Rule11 Violated: Variable declared in loop.
+week1-19/s058/PartySeats.hpp:75:3: Rule11 Violated: Variable declared in loop.
+week1-19/s058/PartySeats.hpp:76:4: Rule11 Violated: Variable declared in loop.
+week1-19/s058/PartySeats.hpp:136:3: Rule11 Violated: Variable declared in loop.
+week1-19/s058/PartySeats.hpp:137:3: Rule12 Violated: Consider refactoring the loop to remove the initial 'if' condition.
+",,,,,,
+s033,,"week1-19/s033/ThrowTheBall.hpp:8:19: Rule9 Violated: Code that is never executed.
+week1-19/s033/ThrowTheBall.hpp:2:7: Rule9 Violated: Code that is never executed.
+week1-19/s033/ThrowTheBall.hpp:10:2: Rule11 Violated: Variable declared in loop.
+",,"week1-19/s033/Inchworm.hpp:1:7: Rule9 Violated: Code that is never executed.
+week1-19/s033/Inchworm.hpp:7:5: Rule11 Violated: Variable declared in loop.
+","week1-19/s033/StreetParking.hpp:14:4: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s033/StreetParking.hpp:19:4: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s033/StreetParking.hpp:8:20: Rule9 Violated: Code that is never executed.
+week1-19/s033/StreetParking.hpp:3:7: Rule9 Violated: Code that is never executed.
+week1-19/s033/StreetParking.hpp:11:2: Rule11 Violated: Variable declared in loop.
+","week1-19/s033/EggCartons.hpp:7:2: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s033/EggCartons.hpp:6:17: Rule9 Violated: Code that is never executed.
+week1-19/s033/EggCartons.hpp:1:7: Rule9 Violated: Code that is never executed.
+",,"week1-19/s033/DownloadingFiles.hpp:9:26: Rule9 Violated: Code that is never executed.
+week1-19/s033/DownloadingFiles.hpp:4:7: Rule9 Violated: Code that is never executed.
+week1-19/s033/DownloadingFiles.hpp:12:2: Rule11 Violated: Variable declared in loop.
+",,,,,
+s034,,"week1-19/s034/ThrowTheBall.hpp:5:7: Rule9 Violated: Code that is never executed.
+","week1-19/s034/AzimuthMonitoring.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s034/AzimuthMonitoring.hpp:13:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s034/Inchworm.hpp:4:7: Rule9 Violated: Code that is never executed.
+week1-19/s034/Inchworm.hpp:10:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s034/StreetParking.hpp:13:4: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s034/StreetParking.hpp:15:5: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s034/StreetParking.hpp:17:6: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s034/StreetParking.hpp:19:7: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s034/StreetParking.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s034/StreetParking.hpp:11:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s034/EggCartons.hpp:4:7: Rule9 Violated: Code that is never executed.
+",,"week1-19/s034/DownloadingFiles.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s034/DownloadingFiles.hpp:10:3: Rule11 Violated: Variable declared in loop.
+",,,,,
+s002,,"week1-19/s002/ThrowTheBall.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s002/ThrowTheBall.hpp:15:5: Rule11 Violated: Variable declared in loop.
+week1-19/s002/ThrowTheBall.hpp:46:7: Rule11 Violated: Variable declared in loop.
+",,"week1-19/s002/Inchworm.hpp:6:7: Rule9 Violated: Code that is never executed.
+",,"week1-19/s002/EggCartons.hpp:7:7: Rule9 Violated: Code that is never executed.
+","week1-19/s002/PartySeats.hpp:67:14: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s002/PartySeats.hpp:73:16: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s002/PartySeats.hpp:28:5: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s002/PartySeats.hpp:32:5: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s002/PartySeats.hpp:8:7: Rule9 Violated: Code that is never executed.
+week1-19/s002/PartySeats.hpp:17:5: Rule11 Violated: Variable declared in loop.
+week1-19/s002/PartySeats.hpp:60:5: Rule11 Violated: Variable declared in loop.
+week1-19/s002/PartySeats.hpp:61:7: Rule11 Violated: Variable declared in loop.
+","week1-19/s002/DownloadingFiles.hpp:8:7: Rule9 Violated: Code that is never executed.
+week1-19/s002/DownloadingFiles.hpp:24:5: Rule11 Violated: Variable declared in loop.
+week1-19/s002/DownloadingFiles.hpp:42:7: Rule11 Violated: Variable declared in loop.
+week1-19/s002/DownloadingFiles.hpp:57:5: Rule11 Violated: Variable declared in loop.
+",,,,,
+s005,"week1-19/s005/CircularLine.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s005/CircularLine.hpp:25:3: Rule11 Violated: Variable declared in loop.
+week1-19/s005/CircularLine.hpp:31:3: Rule11 Violated: Variable declared in loop.
+week1-19/s005/CircularLine.hpp:33:4: Rule11 Violated: Variable declared in loop.
+week1-19/s005/CircularLine.hpp:53:3: Rule11 Violated: Variable declared in loop.
+",,"week1-19/s005/AzimuthMonitoring.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s005/AzimuthMonitoring.hpp:12:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s005/Inchworm.hpp:4:7: Rule9 Violated: Code that is never executed.
+week1-19/s005/Inchworm.hpp:11:5: Rule11 Violated: Variable declared in loop.
+",,"week1-19/s005/EggCartons.hpp:24:5: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s005/EggCartons.hpp:48:5: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s005/EggCartons.hpp:4:7: Rule9 Violated: Code that is never executed.
+","week1-19/s005/PartySeats.hpp:15:7: Rule9 Violated: Code that is never executed.
+week1-19/s005/PartySeats.hpp:25:3: Rule11 Violated: Variable declared in loop.
+week1-19/s005/PartySeats.hpp:50:4: Rule11 Violated: Variable declared in loop.
+week1-19/s005/PartySeats.hpp:56:4: Rule11 Violated: Variable declared in loop.
+week1-19/s005/PartySeats.hpp:9:2: Rule11 Violated: Variable declared in loop.
+",,,,,,
+s018,,,,"week1-19/s018/Inchworm.hpp:3:7: Rule9 Violated: Code that is never executed.
+",,,,,,,,,
+s020,,"week1-19/s020/ThrowTheBall.hpp:3:7: Rule9 Violated: Code that is never executed.
+",,"week1-19/s020/Inchworm.hpp:4:7: Rule9 Violated: Code that is never executed.
+","week1-19/s020/StreetParking.hpp:5:7: Rule9 Violated: Code that is never executed.
+","week1-19/s020/EggCartons.hpp:4:7: Rule9 Violated: Code that is never executed.
+","week1-19/s020/PartySeats.hpp:8:7: Rule9 Violated: Code that is never executed.
+",,,,,,
+s016,,,"week1-19/s016/AzimuthMonitoring.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s016/AzimuthMonitoring.hpp:15:4: Rule11 Violated: Variable declared in loop.
+","week1-19/s016/Inchworm.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s016/Inchworm.hpp:13:4: Rule11 Violated: Variable declared in loop.
+","week1-19/s016/StreetParking.hpp:17:5: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s016/StreetParking.hpp:30:5: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s016/StreetParking.hpp:37:5: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s016/StreetParking.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s016/StreetParking.hpp:12:4: Rule11 Violated: Variable declared in loop.
+","week1-19/s016/EggCartons.hpp:5:7: Rule9 Violated: Code that is never executed.
+",,"week1-19/s016/DownloadingFiles.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s016/DownloadingFiles.hpp:16:4: Rule11 Violated: Variable declared in loop.
+",,,,,
+s029,,"week1-19/s029/ThrowTheBall.hpp:3:7: Rule9 Violated: Code that is never executed.
+",,"week1-19/s029/Inchworm.hpp:3:7: Rule9 Violated: Code that is never executed.
+week1-19/s029/Inchworm.hpp:9:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s029/StreetParking.hpp:4:7: Rule9 Violated: Code that is never executed.
+week1-19/s029/StreetParking.hpp:10:9: Rule11 Violated: Variable declared in loop.
+week1-19/s029/StreetParking.hpp:34:9: Rule11 Violated: Variable declared in loop.
+","week1-19/s029/EggCartons.hpp:3:7: Rule9 Violated: Code that is never executed.
+","week1-19/s029/PartySeats.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s029/PartySeats.hpp:18:5: Rule11 Violated: Variable declared in loop.
+week1-19/s029/PartySeats.hpp:37:5: Rule11 Violated: Variable declared in loop.
+","week1-19/s029/DownloadingFiles.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s029/DownloadingFiles.hpp:11:7: Rule11 Violated: Variable declared in loop.
+",,,,,
+s011,"week1-19/s011/CircularLine.hpp:29:7: Rule9 Violated: Code that is never executed.
+week1-19/s011/CircularLine.hpp:35:3: Rule11 Violated: Variable declared in loop.
+week1-19/s011/CircularLine.hpp:36:4: Rule11 Violated: Variable declared in loop.
+",,,,,"week1-19/s011/EggCartons.hpp:16:4: Rule9 Violated: Code that is never executed.
+week1-19/s011/EggCartons.hpp:21:4: Rule9 Violated: Code that is never executed.
+week1-19/s011/EggCartons.hpp:25:4: Rule9 Violated: Code that is never executed.
+week1-19/s011/EggCartons.hpp:29:4: Rule9 Violated: Code that is never executed.
+week1-19/s011/EggCartons.hpp:6:7: Rule9 Violated: Code that is never executed.
+","week1-19/s011/PartySeats.hpp:51:32: Rule8 Violated: The block associated with the IF (or ELSE) has no statements (or self-assignment).
+week1-19/s011/PartySeats.hpp:57:35: Rule8 Violated: The block associated with the IF (or ELSE) has no statements (or self-assignment).
+week1-19/s011/PartySeats.hpp:25:7: Rule9 Violated: Code that is never executed.
+week1-19/s011/PartySeats.hpp:17:8: Rule9 Violated: Code that is never executed.
+week1-19/s011/PartySeats.hpp:9:6: Rule9 Violated: Code that is never executed.
+week1-19/s011/PartySeats.hpp:51:4: Rule11 Violated: Variable declared in loop.
+week1-19/s011/PartySeats.hpp:57:4: Rule11 Violated: Variable declared in loop.
+","week1-19/s011/DownloadingFiles.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s011/DownloadingFiles.hpp:13:3: Rule11 Violated: Variable declared in loop.
+",,"week1-19/s011/inchworm.hpp:17:7: Rule9 Violated: Code that is never executed.
+",,,
+s045,,"week1-19/s045/ThrowTheBall.hpp:3:7: Rule9 Violated: Code that is never executed.
+week1-19/s045/ThrowTheBall.hpp:11:3: Rule11 Violated: Variable declared in loop.
+",,"week1-19/s045/Inchworm.hpp:1:7: Rule9 Violated: Code that is never executed.
+week1-19/s045/Inchworm.hpp:8:3: Rule11 Violated: Variable declared in loop.
+",,"week1-19/s045/EggCartons.hpp:1:7: Rule9 Violated: Code that is never executed.
+week1-19/s045/EggCartons.hpp:33:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s045/PartySeats.hpp:27:10: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s045/PartySeats.hpp:4:7: Rule9 Violated: Code that is never executed.
+week1-19/s045/PartySeats.hpp:11:3: Rule11 Violated: Variable declared in loop.
+week1-19/s045/PartySeats.hpp:51:3: Rule11 Violated: Variable declared in loop.
+week1-19/s045/PartySeats.hpp:76:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s045/DownloadingFiles.hpp:12:3: Rule8 Violated: The block associated with the IF (or ELSE) has no statements (or self-assignment).
+week1-19/s045/DownloadingFiles.hpp:3:7: Rule9 Violated: Code that is never executed.
+week1-19/s045/DownloadingFiles.hpp:12:3: Rule11 Violated: Variable declared in loop.
+",,,,,
+s089,,,,"week1-19/s089/Inchworm.hpp:15:7: Rule9 Violated: Code that is never executed.
+week1-19/s089/Inchworm.hpp:32:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s089/StreetParking.hpp:19:6: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s089/StreetParking.hpp:23:6: Rule9 Violated: Code that is never executed.
+week1-19/s089/StreetParking.hpp:4:7: Rule9 Violated: Code that is never executed.
+week1-19/s089/StreetParking.hpp:9:3: Rule11 Violated: Variable declared in loop.
+week1-19/s089/StreetParking.hpp:34:3: Rule11 Violated: Variable declared in loop.
+week1-19/s089/StreetParking.hpp:41:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s089/EggCartons.hpp:4:7: Rule9 Violated: Code that is never executed.
+week1-19/s089/EggCartons.hpp:20:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s089/PartySeats.hpp:7:7: Rule9 Violated: Code that is never executed.
+week1-19/s089/PartySeats.hpp:24:3: Rule11 Violated: Variable declared in loop.
+week1-19/s089/PartySeats.hpp:45:3: Rule11 Violated: Variable declared in loop.
+week1-19/s089/PartySeats.hpp:51:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s089/DownloadingFiles.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s089/DownloadingFiles.hpp:16:3: Rule11 Violated: Variable declared in loop.
+week1-19/s089/DownloadingFiles.hpp:26:3: Rule11 Violated: Variable declared in loop.
+week1-19/s089/DownloadingFiles.hpp:32:4: Rule11 Violated: Variable declared in loop.
+week1-19/s089/DownloadingFiles.hpp:51:3: Rule11 Violated: Variable declared in loop.
+",,,,,
+s042,,,"week1-19/s042/AzimuthMonitoring.hpp:34:7: Rule9 Violated: Code that is never executed.
+week1-19/s042/AzimuthMonitoring.hpp:43:7: Rule9 Violated: Code that is never executed.
+week1-19/s042/AzimuthMonitoring.hpp:46:7: Rule9 Violated: Code that is never executed.
+week1-19/s042/AzimuthMonitoring.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s042/AzimuthMonitoring.hpp:22:4: Rule11 Violated: Variable declared in loop.
+","week1-19/s042/Inchworm.hpp:3:7: Rule9 Violated: Code that is never executed.
+",,"week1-19/s042/EggCartons.hpp:3:7: Rule9 Violated: Code that is never executed.
+","week1-19/s042/PartySeats.hpp:41:4: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s042/PartySeats.hpp:42:4: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s042/PartySeats.hpp:8:7: Rule9 Violated: Code that is never executed.
+week1-19/s042/PartySeats.hpp:23:4: Rule11 Violated: Variable declared in loop.
+","week1-19/s042/DownloadingFiles.hpp:8:7: Rule9 Violated: Code that is never executed.
+week1-19/s042/DownloadingFiles.hpp:23:4: Rule11 Violated: Variable declared in loop.
+week1-19/s042/DownloadingFiles.hpp:34:4: Rule11 Violated: Variable declared in loop.
+week1-19/s042/DownloadingFiles.hpp:45:5: Rule11 Violated: Variable declared in loop.
+",,,,,
+s074,,"week1-19/s074/ThrowTheBall.hpp:9:7: Rule9 Violated: Code that is never executed.
+","week1-19/s074/AzimuthMonitoring.hpp:10:7: Rule9 Violated: Code that is never executed.
+week1-19/s074/AzimuthMonitoring.hpp:14:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s074/Inchworm.hpp:7:7: Rule9 Violated: Code that is never executed.
+",,"week1-19/s074/EggCartons.hpp:7:7: Rule9 Violated: Code that is never executed.
+",,"week1-19/s074/DownloadingFiles.hpp:9:7: Rule9 Violated: Code that is never executed.
+week1-19/s074/DownloadingFiles.hpp:15:3: Rule11 Violated: Variable declared in loop.
+",,,,,
+s080,,"week1-19/s080/ThrowTheBall.hpp:3:7: Rule9 Violated: Code that is never executed.
+week1-19/s080/ThrowTheBall.hpp:14:3: Rule11 Violated: Variable declared in loop.
+week1-19/s080/ThrowTheBall.hpp:47:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s080/AzimuthMonitoring.hpp:8:7: Rule9 Violated: Code that is never executed.
+","week1-19/s080/Inchworm.hpp:3:7: Rule9 Violated: Code that is never executed.
+","week1-19/s080/StreetParking.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s080/StreetParking.hpp:15:2: Rule11 Violated: Variable declared in loop.
+week1-19/s080/StreetParking.hpp:21:2: Rule11 Violated: Variable declared in loop.
+week1-19/s080/StreetParking.hpp:69:2: Rule11 Violated: Variable declared in loop.
+","week1-19/s080/EggCartons.hpp:5:7: Rule9 Violated: Code that is never executed.
+",,"week1-19/s080/DownloadingFiles.hpp:5:7: Rule9 Violated: Code that is never executed.
+",,,,,
+s087,,"week1-19/s087/ThrowTheBall.hpp:25:5: and week1-19/s087/ThrowTheBall.hpp:36:5 Rule7 Violated: Repeated statement(s) in branches of conditional statement (could be taken out).
+week1-19/s087/ThrowTheBall.hpp:29:7: and week1-19/s087/ThrowTheBall.hpp:32:7 Rule7 Violated: Repeated statement(s) in branches of conditional statement (could be taken out).
+week1-19/s087/ThrowTheBall.hpp:40:7: and week1-19/s087/ThrowTheBall.hpp:43:7 Rule7 Violated: Repeated statement(s) in branches of conditional statement (could be taken out).
+week1-19/s087/ThrowTheBall.hpp:3:7: Rule9 Violated: Code that is never executed.
+week1-19/s087/ThrowTheBall.hpp:8:3: Rule11 Violated: Variable declared in loop.
+",,"week1-19/s087/Inchworm.hpp:3:7: Rule9 Violated: Code that is never executed.
+","week1-19/s087/StreetParking.hpp:23:9: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s087/StreetParking.hpp:28:9: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s087/StreetParking.hpp:3:7: Rule9 Violated: Code that is never executed.
+week1-19/s087/StreetParking.hpp:9:5: Rule11 Violated: Variable declared in loop.
+week1-19/s087/StreetParking.hpp:11:9: Rule11 Violated: Variable declared in loop.
+week1-19/s087/StreetParking.hpp:35:5: Rule11 Violated: Variable declared in loop.
+","week1-19/s087/EggCartons.hpp:7:9: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s087/EggCartons.hpp:1:7: Rule9 Violated: Code that is never executed.
+week1-19/s087/EggCartons.hpp:5:5: Rule11 Violated: Variable declared in loop.
+week1-19/s087/EggCartons.hpp:6:7: Rule11 Violated: Variable declared in loop.
+",,"week1-19/s087/DownloadingFiles.hpp:21:12: Rule1 Violated: No need to check if Boolean variable is equal to true or false.
+week1-19/s087/DownloadingFiles.hpp:23:18: Rule1 Violated: No need to check if Boolean variable is equal to true or false.
+week1-19/s087/DownloadingFiles.hpp:4:7: Rule9 Violated: Code that is never executed.
+week1-19/s087/DownloadingFiles.hpp:12:5: Rule11 Violated: Variable declared in loop.
+week1-19/s087/DownloadingFiles.hpp:16:7: Rule11 Violated: Variable declared in loop.
+week1-19/s087/DownloadingFiles.hpp:32:5: Rule11 Violated: Variable declared in loop.
+week1-19/s087/DownloadingFiles.hpp:33:7: Rule11 Violated: Variable declared in loop.
+week1-19/s087/DownloadingFiles.hpp:46:5: Rule11 Violated: Variable declared in loop.
+week1-19/s087/DownloadingFiles.hpp:48:7: Rule11 Violated: Variable declared in loop.
+",,,,,
+s073,,"week1-19/s073/ThrowTheBall.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s073/ThrowTheBall.hpp:12:5: Rule11 Violated: Variable declared in loop.
+week1-19/s073/ThrowTheBall.hpp:13:5: Rule12 Violated: Consider refactoring the loop to remove the initial 'if' condition.
+",,"week1-19/s073/Inchworm.hpp:5:7: Rule9 Violated: Code that is never executed.
+","week1-19/s073/StreetParking.hpp:22:6: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s073/StreetParking.hpp:25:7: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s073/StreetParking.hpp:44:6: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s073/StreetParking.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s073/StreetParking.hpp:14:4: Rule11 Violated: Variable declared in loop.
+","week1-19/s073/EggCartons.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s073/EggCartons.hpp:13:5: Rule11 Violated: Variable declared in loop.
+",,"week1-19/s073/DownloadingFiles.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s073/DownloadingFiles.hpp:18:5: Rule11 Violated: Variable declared in loop.
+week1-19/s073/DownloadingFiles.hpp:26:6: Rule11 Violated: Variable declared in loop.
+",,,,,
+s010,"week1-19/s010/CircularLine.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s010/CircularLine.hpp:13:4: Rule11 Violated: Variable declared in loop.
+week1-19/s010/CircularLine.hpp:18:4: Rule11 Violated: Variable declared in loop.
+week1-19/s010/CircularLine.hpp:19:5: Rule11 Violated: Variable declared in loop.
+week1-19/s010/CircularLine.hpp:30:6: Rule11 Violated: Variable declared in loop.
+week1-19/s010/CircularLine.hpp:31:5: Rule11 Violated: Variable declared in loop.
+week1-19/s010/CircularLine.hpp:63:4: Rule11 Violated: Variable declared in loop.
+week1-19/s010/CircularLine.hpp:64:5: Rule11 Violated: Variable declared in loop.
+week1-19/s010/CircularLine.hpp:72:3: Rule11 Violated: Variable declared in loop.
+",,,"week1-19/s010/Inchworm.hpp:3:7: Rule9 Violated: Code that is never executed.
+week1-19/s010/Inchworm.hpp:10:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s010/StreetParking.hpp:18:74: Rule8 Violated: The block associated with the IF (or ELSE) has no statements (or self-assignment).
+week1-19/s010/StreetParking.hpp:23:75: Rule8 Violated: The block associated with the IF (or ELSE) has no statements (or self-assignment).
+week1-19/s010/StreetParking.hpp:28:50: Rule8 Violated: The block associated with the IF (or ELSE) has no statements (or self-assignment).
+week1-19/s010/StreetParking.hpp:35:50: Rule8 Violated: The block associated with the IF (or ELSE) has no statements (or self-assignment).
+week1-19/s010/StreetParking.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s010/StreetParking.hpp:12:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s010/EggCartons.hpp:3:7: Rule9 Violated: Code that is never executed.
+week1-19/s010/EggCartons.hpp:18:4: Rule11 Violated: Variable declared in loop.
+",,"week1-19/s010/DownloadingFiles.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s010/DownloadingFiles.hpp:16:4: Rule11 Violated: Variable declared in loop.
+week1-19/s010/DownloadingFiles.hpp:25:5: Rule11 Violated: Variable declared in loop.
+week1-19/s010/DownloadingFiles.hpp:53:4: Rule11 Violated: Variable declared in loop.
+",,,,,
+s017,,"week1-19/s017/ThrowTheBall.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s017/ThrowTheBall.hpp:14:7: Rule11 Violated: Variable declared in loop.
+","week1-19/s017/AzimuthMonitoring.hpp:14:31: Rule8 Violated: The block associated with the IF (or ELSE) has no statements (or self-assignment).
+week1-19/s017/AzimuthMonitoring.hpp:24:31: Rule8 Violated: The block associated with the IF (or ELSE) has no statements (or self-assignment).
+week1-19/s017/AzimuthMonitoring.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s017/AzimuthMonitoring.hpp:12:5: Rule11 Violated: Variable declared in loop.
+","week1-19/s017/Inchworm.hpp:3:7: Rule9 Violated: Code that is never executed.
+week1-19/s017/Inchworm.hpp:8:5: Rule11 Violated: Variable declared in loop.
+","week1-19/s017/StreetParking.hpp:3:7: Rule9 Violated: Code that is never executed.
+","week1-19/s017/EggCartons.hpp:3:7: Rule9 Violated: Code that is never executed.
+",,,,,,,
+s028,,"week1-19/s028/ThrowTheBall.hpp:5:7: Rule9 Violated: Code that is never executed.
+","week1-19/s028/AzimuthMonitoring.hpp:7:7: Rule9 Violated: Code that is never executed.
+week1-19/s028/AzimuthMonitoring.hpp:12:4: Rule11 Violated: Variable declared in loop.
+","week1-19/s028/Inchworm.hpp:5:7: Rule9 Violated: Code that is never executed.
+","week1-19/s028/StreetParking.hpp:4:7: Rule9 Violated: Code that is never executed.
+week1-19/s028/StreetParking.hpp:11:4: Rule11 Violated: Variable declared in loop.
+","week1-19/s028/EggCartons.hpp:4:7: Rule9 Violated: Code that is never executed.
+",,,,,,,
+s021,"week1-19/s021/CircularLine.hpp:4:7: Rule9 Violated: Code that is never executed.
+week1-19/s021/CircularLine.hpp:12:9: Rule11 Violated: Variable declared in loop.
+",,"week1-19/s021/AzimuthMonitoring.hpp:7:7: Rule9 Violated: Code that is never executed.
+week1-19/s021/AzimuthMonitoring.hpp:13:9: Rule11 Violated: Variable declared in loop.
+",,,"week1-19/s021/EggCartons.hpp:2:7: Rule9 Violated: Code that is never executed.
+","week1-19/s021/PartySeats.hpp:7:7: Rule9 Violated: Code that is never executed.
+week1-19/s021/PartySeats.hpp:27:9: Rule11 Violated: Variable declared in loop.
+week1-19/s021/PartySeats.hpp:53:9: Rule11 Violated: Variable declared in loop.
+week1-19/s021/PartySeats.hpp:59:9: Rule11 Violated: Variable declared in loop.
+","week1-19/s021/DownloadingFiles.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s021/DownloadingFiles.hpp:14:9: Rule11 Violated: Variable declared in loop.
+",,,,,
+s026,,"week1-19/s026/ThrowTheBall.hpp:3:7: Rule9 Violated: Code that is never executed.
+week1-19/s026/ThrowTheBall.hpp:26:4: Rule11 Violated: Variable declared in loop.
+","week1-19/s026/AzimuthMonitoring.hpp:7:7: Rule9 Violated: Code that is never executed.
+week1-19/s026/AzimuthMonitoring.hpp:11:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s026/Inchworm.hpp:4:7: Rule9 Violated: Code that is never executed.
+week1-19/s026/Inchworm.hpp:12:5: Rule11 Violated: Variable declared in loop.
+",,"week1-19/s026/EggCartons.hpp:19:2: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s026/EggCartons.hpp:22:2: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s026/EggCartons.hpp:3:7: Rule9 Violated: Code that is never executed.
+","week1-19/s026/PartySeats.hpp:5:7: Rule9 Violated: Code that is never executed.
+",,,,,,
+s019,,"week1-19/s019/ThrowTheBall.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s019/ThrowTheBall.hpp:13:3: Rule11 Violated: Variable declared in loop.
+",,"week1-19/s019/Inchworm.hpp:4:7: Rule9 Violated: Code that is never executed.
+week1-19/s019/Inchworm.hpp:10:5: Rule11 Violated: Variable declared in loop.
+","week1-19/s019/StreetParking.hpp:15:4: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s019/StreetParking.hpp:16:4: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s019/StreetParking.hpp:16:4: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s019/StreetParking.hpp:17:4: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s019/StreetParking.hpp:17:4: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s019/StreetParking.hpp:18:4: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s019/StreetParking.hpp:18:4: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s019/StreetParking.hpp:19:4: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s019/StreetParking.hpp:9:7: Rule9 Violated: Code that is never executed.
+week1-19/s019/StreetParking.hpp:13:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s019/EggCartons.hpp:6:7: Rule9 Violated: Code that is never executed.
+",,"week1-19/s019/DownloadingFiles.hpp:8:7: Rule9 Violated: Code that is never executed.
+week1-19/s019/DownloadingFiles.hpp:14:3: Rule11 Violated: Variable declared in loop.
+",,,,,
+s072,,"week1-19/s072/ThrowTheBall.hpp:1:7: Rule9 Violated: Code that is never executed.
+week1-19/s072/ThrowTheBall.hpp:8:9: Rule11 Violated: Variable declared in loop.
+","week1-19/s072/AzimuthMonitoring.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s072/AzimuthMonitoring.hpp:16:9: Rule11 Violated: Variable declared in loop.
+week1-19/s072/AzimuthMonitoring.hpp:31:17: Rule11 Violated: Variable declared in loop.
+","week1-19/s072/Inchworm.hpp:3:7: Rule9 Violated: Code that is never executed.
+",,"week1-19/s072/EggCartons.hpp:4:7: Rule9 Violated: Code that is never executed.
+week1-19/s072/EggCartons.hpp:19:13: Rule11 Violated: Variable declared in loop.
+",,"week1-19/s072/DownloadingFiles.hpp:27:20: Rule1 Violated: No need to check if Boolean variable is equal to true or false.
+week1-19/s072/DownloadingFiles.hpp:7:7: Rule9 Violated: Code that is never executed.
+week1-19/s072/DownloadingFiles.hpp:18:9: Rule11 Violated: Variable declared in loop.
+week1-19/s072/DownloadingFiles.hpp:25:13: Rule11 Violated: Variable declared in loop.
+week1-19/s072/DownloadingFiles.hpp:54:9: Rule11 Violated: Variable declared in loop.
+",,,,,
+s086,,"week1-19/s086/ThrowTheBall.hpp:24:5: and week1-19/s086/ThrowTheBall.hpp:34:5 Rule7 Violated: Repeated statement(s) in branches of conditional statement (could be taken out).
+week1-19/s086/ThrowTheBall.hpp:30:5: and week1-19/s086/ThrowTheBall.hpp:40:5 Rule7 Violated: Repeated statement(s) in branches of conditional statement (could be taken out).
+week1-19/s086/ThrowTheBall.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s086/ThrowTheBall.hpp:13:3: Rule11 Violated: Variable declared in loop.
+",,"week1-19/s086/Inchworm.hpp:24:7: Rule1 Violated: No need to check if Boolean variable is equal to true or false.
+week1-19/s086/Inchworm.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s086/Inchworm.hpp:11:3: Rule11 Violated: Variable declared in loop.
+week1-19/s086/Inchworm.hpp:22:3: Rule11 Violated: Variable declared in loop.
+",,"week1-19/s086/EggCartons.hpp:6:7: Rule9 Violated: Code that is never executed.
+",,,,,,,
+s081,,"week1-19/s081/ThrowTheBall.hpp:3:7: Rule9 Violated: Code that is never executed.
+","week1-19/s081/AzimuthMonitoring.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s081/AzimuthMonitoring.hpp:24:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s081/Inchworm.hpp:1:7: Rule9 Violated: Code that is never executed.
+","week1-19/s081/StreetParking.hpp:4:7: Rule9 Violated: Code that is never executed.
+week1-19/s081/StreetParking.hpp:9:3: Rule11 Violated: Variable declared in loop.
+week1-19/s081/StreetParking.hpp:11:3: Rule11 Violated: Variable declared in loop.
+week1-19/s081/StreetParking.hpp:29:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s081/EggCartons.hpp:1:7: Rule9 Violated: Code that is never executed.
+",,,,,,,
+s075,,"week1-19/s075/ThrowTheBall.hpp:21:21: and week1-19/s075/ThrowTheBall.hpp:24:21 Rule7 Violated: Repeated statement(s) in branches of conditional statement (could be taken out).
+week1-19/s075/ThrowTheBall.hpp:30:21: and week1-19/s075/ThrowTheBall.hpp:33:21 Rule7 Violated: Repeated statement(s) in branches of conditional statement (could be taken out).
+week1-19/s075/ThrowTheBall.hpp:6:7: Rule9 Violated: Code that is never executed.
+",,"week1-19/s075/Inchworm.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s075/Inchworm.hpp:12:5: Rule11 Violated: Variable declared in loop.
+","week1-19/s075/StreetParking.hpp:26:21: Rule9 Violated: Code that is never executed.
+week1-19/s075/StreetParking.hpp:38:21: Rule9 Violated: Code that is never executed.
+week1-19/s075/StreetParking.hpp:42:21: Rule9 Violated: Code that is never executed.
+week1-19/s075/StreetParking.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s075/StreetParking.hpp:12:7: Rule11 Violated: Variable declared in loop.
+","week1-19/s075/EggCartons.hpp:6:7: Rule9 Violated: Code that is never executed.
+",,"week1-19/s075/DownloadingFiles.hpp:8:7: Rule9 Violated: Code that is never executed.
+week1-19/s075/DownloadingFiles.hpp:17:13: Rule11 Violated: Variable declared in loop.
+",,,,,
+s088,,,,,,,"week1-19/s088/PartySeats.hpp:9:7: Rule9 Violated: Code that is never executed.
+",,,,,,
+s043,,"week1-19/s043/ThrowTheBall.hpp:5:7: Rule9 Violated: Code that is never executed.
+",,"week1-19/s043/Inchworm.hpp:6:7: Rule9 Violated: Code that is never executed.
+","week1-19/s043/StreetParking.hpp:14:3: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s043/StreetParking.hpp:17:3: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s043/StreetParking.hpp:21:3: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s043/StreetParking.hpp:24:3: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s043/StreetParking.hpp:24:3: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s043/StreetParking.hpp:27:3: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s043/StreetParking.hpp:4:7: Rule9 Violated: Code that is never executed.
+week1-19/s043/StreetParking.hpp:29:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s043/EggCartons.hpp:10:5: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s043/EggCartons.hpp:3:7: Rule9 Violated: Code that is never executed.
+week1-19/s043/EggCartons.hpp:8:4: Rule11 Violated: Variable declared in loop.
+",,"week1-19/s043/DownloadingFiles.hpp:7:7: Rule9 Violated: Code that is never executed.
+week1-19/s043/DownloadingFiles.hpp:12:3: Rule11 Violated: Variable declared in loop.
+week1-19/s043/DownloadingFiles.hpp:14:4: Rule11 Violated: Variable declared in loop.
+",,,,,
+s044,,,,"week1-19/s044/Inchworm.hpp:4:7: Rule9 Violated: Code that is never executed.
+","week1-19/s044/StreetParking.hpp:49:11: Rule1 Violated: No need to check if Boolean variable is equal to true or false.
+week1-19/s044/StreetParking.hpp:26:11: Rule9 Violated: Code that is never executed.
+week1-19/s044/StreetParking.hpp:35:11: Rule9 Violated: Code that is never executed.
+week1-19/s044/StreetParking.hpp:5:7: Rule9 Violated: Code that is never executed.
+","week1-19/s044/EggCartons.hpp:4:7: Rule9 Violated: Code that is never executed.
+",,,,,,,
+s136,,"week1-19/s136/ThrowTheBall.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s136/ThrowTheBall.hpp:9:7: Rule11 Violated: Variable declared in loop.
+","week1-19/s136/AzimuthMonitoring.hpp:10:7: Rule9 Violated: Code that is never executed.
+week1-19/s136/AzimuthMonitoring.hpp:14:9: Rule11 Violated: Variable declared in loop.
+week1-19/s136/AzimuthMonitoring.hpp:24:17: Rule11 Violated: Variable declared in loop.
+week1-19/s136/AzimuthMonitoring.hpp:31:17: Rule11 Violated: Variable declared in loop.
+","week1-19/s136/Inchworm.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s136/Inchworm.hpp:10:7: Rule11 Violated: Variable declared in loop.
+","week1-19/s136/StreetParking.hpp:13:13: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s136/StreetParking.hpp:15:13: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s136/StreetParking.hpp:15:13: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s136/StreetParking.hpp:17:13: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s136/StreetParking.hpp:17:13: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s136/StreetParking.hpp:19:13: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s136/StreetParking.hpp:19:13: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s136/StreetParking.hpp:21:13: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s136/StreetParking.hpp:21:13: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s136/StreetParking.hpp:23:13: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s136/StreetParking.hpp:23:13: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s136/StreetParking.hpp:25:13: Rule4 Violated: Avoid a series of consecutive IF statements that when true they result in the same action by using or (||) operator.
+week1-19/s136/StreetParking.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s136/StreetParking.hpp:10:9: Rule11 Violated: Variable declared in loop.
+","week1-19/s136/EggCartons.hpp:5:7: Rule9 Violated: Code that is never executed.
+",,,,,,,
+s109,,"week1-19/s109/ThrowTheBall.hpp:4:7: Rule9 Violated: Code that is never executed.
+week1-19/s109/ThrowTheBall.hpp:9:9: Rule11 Violated: Variable declared in loop.
+","week1-19/s109/AzimuthMonitoring.hpp:9:7: Rule9 Violated: Code that is never executed.
+week1-19/s109/AzimuthMonitoring.hpp:14:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s109/Inchworm.hpp:4:7: Rule9 Violated: Code that is never executed.
+week1-19/s109/Inchworm.hpp:8:9: Rule11 Violated: Variable declared in loop.
+","week1-19/s109/StreetParking.hpp:15:17: and week1-19/s109/StreetParking.hpp:18:17 Rule7 Violated: Repeated statement(s) in branches of conditional statement (could be taken out).
+week1-19/s109/StreetParking.hpp:15:17: and week1-19/s109/StreetParking.hpp:18:17 Rule7 Violated: Repeated statement(s) in branches of conditional statement (could be taken out).
+week1-19/s109/StreetParking.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s109/StreetParking.hpp:10:9: Rule11 Violated: Variable declared in loop.
+week1-19/s109/StreetParking.hpp:21:9: Rule11 Violated: Variable declared in loop.
+","week1-19/s109/EggCartons.hpp:5:7: Rule9 Violated: Code that is never executed.
+",,,,,,,
+s131,,"week1-19/s131/ThrowTheBall.hpp:7:7: Rule9 Violated: Code that is never executed.
+week1-19/s131/ThrowTheBall.hpp:16:3: Rule11 Violated: Variable declared in loop.
+week1-19/s131/ThrowTheBall.hpp:22:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s131/AzimuthMonitoring.hpp:10:7: Rule9 Violated: Code that is never executed.
+week1-19/s131/AzimuthMonitoring.hpp:19:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s131/Inchworm.hpp:8:7: Rule9 Violated: Code that is never executed.
+week1-19/s131/Inchworm.hpp:14:4: Rule11 Violated: Variable declared in loop.
+","week1-19/s131/StreetParking.hpp:7:7: Rule9 Violated: Code that is never executed.
+week1-19/s131/StreetParking.hpp:14:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s131/EggCartons.hpp:8:7: Rule9 Violated: Code that is never executed.
+week1-19/s131/EggCartons.hpp:24:4: Rule11 Violated: Variable declared in loop.
+week1-19/s131/EggCartons.hpp:27:5: Rule11 Violated: Variable declared in loop.
+",,,,,,,
+s107,,"week1-19/s107/ThrowTheBall.hpp:5:7: Rule9 Violated: Code that is never executed.
+","week1-19/s107/AzimuthMonitoring.hpp:8:7: Rule9 Violated: Code that is never executed.
+","week1-19/s107/Inchworm.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s107/Inchworm.hpp:13:6: Rule11 Violated: Variable declared in loop.
+","week1-19/s107/StreetParking.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s107/StreetParking.hpp:15:5: Rule11 Violated: Variable declared in loop.
+week1-19/s107/StreetParking.hpp:20:5: Rule11 Violated: Variable declared in loop.
+","week1-19/s107/EggCartons.hpp:5:7: Rule9 Violated: Code that is never executed.
+",,,,,,,
+s138,,"week1-19/s138/ThrowTheBall.hpp:4:7: Rule9 Violated: Code that is never executed.
+week1-19/s138/ThrowTheBall.hpp:11:3: Rule11 Violated: Variable declared in loop.
+",,"week1-19/s138/Inchworm.hpp:5:7: Rule9 Violated: Code that is never executed.
+",,"week1-19/s138/EggCartons.hpp:3:7: Rule9 Violated: Code that is never executed.
+","week1-19/s138/PartySeats.hpp:35:47: Rule1 Violated: No need to check if Boolean variable is equal to true or false.
+week1-19/s138/PartySeats.hpp:58:3: Rule8 Violated: The block associated with the IF (or ELSE) has no statements (or self-assignment).
+week1-19/s138/PartySeats.hpp:80:3: Rule8 Violated: The block associated with the IF (or ELSE) has no statements (or self-assignment).
+week1-19/s138/PartySeats.hpp:5:7: Rule9 Violated: Code that is never executed.
+","week1-19/s138/DownloadingFiles.hpp:4:7: Rule9 Violated: Code that is never executed.
+",,,,,
+s100,,"week1-19/s100/ThrowTheBall.hpp:34:5: and week1-19/s100/ThrowTheBall.hpp:46:5 Rule7 Violated: Repeated statement(s) in branches of conditional statement (could be taken out).
+week1-19/s100/ThrowTheBall.hpp:33:5: and week1-19/s100/ThrowTheBall.hpp:45:5 Rule7 Violated: Repeated statement(s) in branches of conditional statement (could be taken out).
+week1-19/s100/ThrowTheBall.hpp:29:5: and week1-19/s100/ThrowTheBall.hpp:41:5 Rule7 Violated: Repeated statement(s) in branches of conditional statement (could be taken out).
+week1-19/s100/ThrowTheBall.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s100/ThrowTheBall.hpp:17:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s100/AzimuthMonitoring.hpp:5:7: Rule9 Violated: Code that is never executed.
+","week1-19/s100/Inchworm.hpp:4:7: Rule9 Violated: Code that is never executed.
+week1-19/s100/Inchworm.hpp:12:3: Rule11 Violated: Variable declared in loop.
+week1-19/s100/Inchworm.hpp:25:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s100/StreetParking.hpp:4:7: Rule9 Violated: Code that is never executed.
+","week1-19/s100/EggCartons.hpp:5:7: Rule9 Violated: Code that is never executed.
+",,,,,,,
+s101,"week1-19/s101/CircularLine.hpp:7:7: Rule9 Violated: Code that is never executed.
+week1-19/s101/CircularLine.hpp:14:3: Rule11 Violated: Variable declared in loop.
+week1-19/s101/CircularLine.hpp:23:3: Rule11 Violated: Variable declared in loop.
+week1-19/s101/CircularLine.hpp:24:4: Rule11 Violated: Variable declared in loop.
+week1-19/s101/CircularLine.hpp:28:5: Rule11 Violated: Variable declared in loop.
+week1-19/s101/CircularLine.hpp:31:5: Rule11 Violated: Variable declared in loop.
+","week1-19/s101/ThrowTheBall.hpp:6:7: Rule9 Violated: Code that is never executed.
+",,"week1-19/s101/Inchworm.hpp:6:7: Rule9 Violated: Code that is never executed.
+","week1-19/s101/StreetParking.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s101/StreetParking.hpp:14:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s101/EggCartons.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s101/EggCartons.hpp:13:4: Rule11 Violated: Variable declared in loop.
+week1-19/s101/EggCartons.hpp:14:5: Rule11 Violated: Variable declared in loop.
+","week1-19/s101/PartySeats.hpp:50:15: Rule1 Violated: No need to check if Boolean variable is equal to true or false.
+week1-19/s101/PartySeats.hpp:54:15: Rule1 Violated: No need to check if Boolean variable is equal to true or false.
+week1-19/s101/PartySeats.hpp:8:7: Rule9 Violated: Code that is never executed.
+week1-19/s101/PartySeats.hpp:21:3: Rule11 Violated: Variable declared in loop.
+week1-19/s101/PartySeats.hpp:42:3: Rule11 Violated: Variable declared in loop.
+week1-19/s101/PartySeats.hpp:43:3: Rule12 Violated: Consider refactoring the loop to remove the initial 'if' condition.
+",,,,,,
+s106,,,,,,,,"week1-19/s106/DownloadingFiles.hpp:11:7: Rule9 Violated: Code that is never executed.
+week1-19/s106/DownloadingFiles.hpp:22:3: Rule11 Violated: Variable declared in loop.
+week1-19/s106/DownloadingFiles.hpp:49:5: Rule11 Violated: Variable declared in loop.
+week1-19/s106/DownloadingFiles.hpp:65:5: Rule11 Violated: Variable declared in loop.
+",,,,,
+s139,,"week1-19/s139/ThrowTheBall.hpp:6:7: Rule9 Violated: Code that is never executed.
+","week1-19/s139/AzimuthMonitoring.hpp:7:7: Rule9 Violated: Code that is never executed.
+week1-19/s139/AzimuthMonitoring.hpp:13:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s139/Inchworm.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s139/Inchworm.hpp:11:3: Rule11 Violated: Variable declared in loop.
+","week1-19/s139/StreetParking.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s139/StreetParking.hpp:23:5: Rule11 Violated: Variable declared in loop.
+week1-19/s139/StreetParking.hpp:30:4: Rule11 Violated: Variable declared in loop.
+week1-19/s139/StreetParking.hpp:31:4: Rule12 Violated: Consider refactoring the loop to remove the initial 'if' condition.
+","week1-19/s139/EggCartons.hpp:5:7: Rule9 Violated: Code that is never executed.
+",,,,,,,
+s130,"week1-19/s130/CircularLine.hpp:4:7: Rule9 Violated: Code that is never executed.
+week1-19/s130/CircularLine.hpp:15:9: Rule11 Violated: Variable declared in loop.
+week1-19/s130/CircularLine.hpp:21:9: Rule11 Violated: Variable declared in loop.
+week1-19/s130/CircularLine.hpp:25:13: Rule11 Violated: Variable declared in loop.
+week1-19/s130/CircularLine.hpp:53:9: Rule11 Violated: Variable declared in loop.
+",,"week1-19/s130/AzimuthMonitoring.hpp:24:21: Rule9 Violated: Code that is never executed.
+week1-19/s130/AzimuthMonitoring.hpp:35:21: Rule9 Violated: Code that is never executed.
+week1-19/s130/AzimuthMonitoring.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s130/AzimuthMonitoring.hpp:11:9: Rule11 Violated: Variable declared in loop.
+",,,"week1-19/s130/EggCartons.hpp:24:13: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s130/EggCartons.hpp:4:7: Rule9 Violated: Code that is never executed.
+week1-19/s130/EggCartons.hpp:16:9: Rule11 Violated: Variable declared in loop.
+","week1-19/s130/PartySeats.hpp:8:7: Rule9 Violated: Code that is never executed.
+week1-19/s130/PartySeats.hpp:24:9: Rule11 Violated: Variable declared in loop.
+week1-19/s130/PartySeats.hpp:48:9: Rule11 Violated: Variable declared in loop.
+week1-19/s130/PartySeats.hpp:54:9: Rule11 Violated: Variable declared in loop.
+","week1-19/s130/DownloadingFiles.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s130/DownloadingFiles.hpp:19:9: Rule11 Violated: Variable declared in loop.
+week1-19/s130/DownloadingFiles.hpp:30:9: Rule11 Violated: Variable declared in loop.
+",,,,,
+s108,,"week1-19/s108/ThrowTheBall.hpp:10:7: Rule9 Violated: Code that is never executed.
+week1-19/s108/ThrowTheBall.hpp:5:15: Rule9 Violated: Code that is never executed.
+week1-19/s108/ThrowTheBall.hpp:23:9: Rule11 Violated: Variable declared in loop.
+","week1-19/s108/AzimuthMonitoring.hpp:11:7: Rule9 Violated: Code that is never executed.
+week1-19/s108/AzimuthMonitoring.hpp:6:15: Rule9 Violated: Code that is never executed.
+week1-19/s108/AzimuthMonitoring.hpp:20:9: Rule11 Violated: Variable declared in loop.
+","week1-19/s108/Inchworm.hpp:5:7: Rule9 Violated: Code that is never executed.
+week1-19/s108/Inchworm.hpp:16:9: Rule11 Violated: Variable declared in loop.
+","week1-19/s108/StreetParking.hpp:21:40: Rule8 Violated: The block associated with the IF (or ELSE) has no statements (or self-assignment).
+week1-19/s108/StreetParking.hpp:30:34: Rule8 Violated: The block associated with the IF (or ELSE) has no statements (or self-assignment).
+week1-19/s108/StreetParking.hpp:33:89: Rule8 Violated: The block associated with the IF (or ELSE) has no statements (or self-assignment).
+week1-19/s108/StreetParking.hpp:38:89: Rule8 Violated: The block associated with the IF (or ELSE) has no statements (or self-assignment).
+week1-19/s108/StreetParking.hpp:6:7: Rule9 Violated: Code that is never executed.
+week1-19/s108/StreetParking.hpp:29:9: Rule11 Violated: Variable declared in loop.
+","week1-19/s108/EggCartons.hpp:34:12: Rule1 Violated: No need to check if Boolean variable is equal to true or false.
+week1-19/s108/EggCartons.hpp:38:12: Rule1 Violated: No need to check if Boolean variable is equal to true or false.
+week1-19/s108/EggCartons.hpp:65:14: Rule3 Violated: Avoiding deep nested IFs by using and (&&) operator.
+week1-19/s108/EggCartons.hpp:4:7: Rule9 Violated: Code that is never executed.
+","week1-19/s108/PartySeats.hpp:5:7: Rule9 Violated: Code that is never executed.
+",,,,,,

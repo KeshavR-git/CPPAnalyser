@@ -1,60 +1,40 @@
 import os
 import subprocess
 import csv
-from collections import defaultdict
 
-# path to read from the files s001-s141
-base_path = "/Users/kr/desktop/Research Project Summer 2023/CPPAnalyser/Testing/week1-19"
+# The directory containing the student folders
+base_dir = 'week1-19'
 
-# script path
-script_path = "./ASTProcessor.py"
+# Create a dictionary to store the results
+results = {}
 
-# student folders
-students = []
-for i in range(1, 142):
-    student = "s" + str(i).zfill(3)
-    students.append(student)
+# Iterate over all subdirectories in the base directory
+for student_dir in os.listdir(base_dir):
+    # Construct the full path to the student directory
+    student_dir_path = os.path.join(base_dir, student_dir)
 
+    # Check if it's a directory
+    if os.path.isdir(student_dir_path):
+        # Iterate over all files in the student directory
+        for filename in os.listdir(student_dir_path):
+            # Check if the file is a .hpp file
+            if filename.endswith('.hpp'):
+                # Construct the full path to the file
+                file_path = os.path.join(student_dir_path, filename)
 
-# dictionary to hold violations
-violations = defaultdict(lambda: defaultdict(str))
+                # Run ASTProcessor.py on the file
+                result = subprocess.run(['python3', 'ASTProcessor.py', file_path], capture_output=True, text=True)
 
-# set to hold all hpp file names
-all_hpp_files = set()
+                # Store the output in the results dictionary
+                if filename not in results:
+                    results[filename] = {}
+                results[filename][student_dir] = result.stdout
 
-# Loop over each student
-for student in students:
-    # Get a list of all .hpp files in the student's folder
-    folder_path = os.path.join(base_path, student)
-    
-    # Check if the directory exists
-    if os.path.isdir(folder_path):
-        hpp_files = []
-        for f in os.listdir(folder_path):
-            if f.endswith('.hpp'):
-                hpp_files.append(f)
-        all_hpp_files.update(hpp_files)
-
-        # Loop over each hpp file
-        for hpp_file in hpp_files:
-            file_path = os.path.join(folder_path, hpp_file)
-
-            # Run the script and capture the output
-            result = subprocess.run(["python3", script_path, file_path], capture_output=True, text=True)
-
-            # Store the output in the dictionary
-            violations[student][hpp_file] = result.stdout
-
-# Prepare the CSV writer
-with open("violations.csv", "w", newline="") as csvfile:
+# Write the results to a CSV file
+with open('results.csv', 'w', newline='') as csvfile:
     writer = csv.writer(csvfile)
-
     # Write the header row
-    writer.writerow(["Student"] + list(all_hpp_files))
-
-    # Write the violations for each student
-    for student in students:
-        row = [student]
-        for hpp_file in all_hpp_files:
-            row.append(violations[student][hpp_file])
-        writer.writerow(row)
+    writer.writerow(['Student/File'] + list(results.keys()))
+    # Write the data rows
+    for student_dir in os.listdir(base_dir):
+        writer.writerow([student_dir] + [results.get(filename, {}).get(student_dir, '') for filename in results.keys()])
