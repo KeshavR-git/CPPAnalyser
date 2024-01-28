@@ -17,7 +17,7 @@ from Tools.detector import Rule10Detector
 from Tools.detector import Rule11Detector
 from Tools.detector import Rule12Detector
 from Tools.detector import Rule12Variation2Detector
-# from Tools.detector import Rule13Detector
+from Tools.detector import Rule13Detector
 
 from Tools.collector import ForLoopCollector
 
@@ -35,6 +35,7 @@ freqViolation = {
         10:0,
         11:0,
         12:0,
+        13:0,
 }
 amtViolation = {
         1:0,
@@ -49,6 +50,7 @@ amtViolation = {
         10:0,
         11:0,
         12:0,
+        13:0,
 }
 sum_of_squares = {
         1:0,
@@ -63,6 +65,7 @@ sum_of_squares = {
         10:0,
         11:0,
         12:0,
+        13:0,
 }
 
 def runFile(name):
@@ -103,6 +106,7 @@ def runTool(name):
         10:0,
         11:0,
         12:0,
+        13:0,
     }
     # Preprocess Stage
     HeaderPreprocessor.HeaderPreprocessor(name)
@@ -134,7 +138,7 @@ def runTool(name):
     Rule11Detector.Rule11Detector(name, temp_dict, name)
     Rule12Detector.Rule12Detector(name, temp_dict, name)
     Rule12Variation2Detector.Rule12Variation2Detector(name, temp_dict, name)
-    # Rule13Detector.Rule13Detector(name, temp_dict, name)
+    Rule13Detector.Rule13Detector(name, temp_dict, name)
 
     # builtins.print = old_print
 
