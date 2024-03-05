@@ -22,3 +22,4 @@ Dr Cruz Izu
  * Iterates over subdirectories in a specified base directory.
  * Checks if each subdirectory is valid.
  * Usage: Supply your directory in the base_dir variable in the script enclosed with single quotation mark and run python3 scriptForCSV.py.
+ * the folder structure should base_dir -> subdirectory or subdirectories -> cpp or hpp files
