@@ -1,0 +1,10 @@
+void Capitalise(char *phrase)
+{
+	for(int i = 0; phrase[i] != 0; i++)
+	{
+		if((phrase[i-1] == ' ' || i == 0) && phrase[i] >= 97 && phrase[i] <= 122)
+		{
+			phrase[i] -= 32;
+		}
+	}
+}
